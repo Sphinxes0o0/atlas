@@ -81,3 +81,45 @@ Ingested 6 new raw source directories. Raw files are Git LFS pointer files (cont
 | Index completeness errors | 0 |
 
 All pages pass lint checks. No orphan pages, no broken wikilinks, and all entities are registered in their respective index pages.
+
+## [2026-05-23] ingest | Exercise-physiology subtopics (9 new entities)
+
+Ingested 13 exercise-physiology subtopic directories from relay-neuron. Raw files are Git LFS pointer files (content inaccessible via 404), so pages were created based on file names, domain knowledge, and cross-referencing with existing wiki structure.
+
+### Source Page Updated (1)
+- `sources/relay-neuron-physiology.md` — added 10 new subtopic entries (蛋白质摄入时机, 过度训练, 恢复科学, 骨健康, 功率训练, 肠道肌肉轴, 关节肠道肌肉轴, HIIT训练, HIITvsMICT, PAP); updated key findings and related entities list
+
+### Entity Pages Created (9 new)
+- `entities/exercise-science/physiology/protein-timing.md` — Anabolic window, leucine threshold (~2.5-3g/meal), pre-sleep casein (30-40g), protein distribution (4-5 meals/day)
+- `entities/exercise-science/physiology/overtraining-syndrome.md` — OTS: HPA axis dysfunction, HRV monitoring, ACWR (optimal 1.0-1.3), 10% rule, prevention and recovery strategies
+- `entities/exercise-science/physiology/bone-health-exercise.md` — Bone density, impact training, osteoporosis prevention, calcium/vitamin D/K2, special populations
+- `entities/exercise-science/physiology/power-training.md` — RFD, force-velocity curve, optimal power load (30-60% 1RM), plyometrics, SSC, Olympic lifts
+- `entities/exercise-science/physiology/gut-muscle-axis.md` — Gut microbiota, SCFA (acetate/propionate/butyrate), GPR41/43 signaling, sarcopenia link, exercise/nutrition interventions
+- `entities/exercise-science/physiology/joint-gut-muscle-axis.md` — Joint-gut-muscle axis: glucosamine/MSM, probiotics/glutamine, omega-3/curcumin, integrated protocols
+- `entities/exercise-science/physiology/hiit-training.md` — HIIT protocols (Tabata, 4×4, 10-20-30), VO2max/EPOC/metabolic adaptations, safety guidelines
+- `entities/exercise-science/physiology/hiitvsmict.md` — HIIT vs MICT: VO2max, insulin sensitivity, arterial stiffness, adherence, when to choose each
+- `entities/exercise-science/physiology/post-activation-potenti.md` — PAP: neural/muscle mechanisms, optimal window (8-15 min), complex training, warm-up protocols
+
+### Index Pages Updated (2)
+- `physiology-index.md` — added 9 new entities (19 total, up from 10)
+- `home.md` — entity count ~77 → ~86; source description expanded to ~35 topics
+
+### Existing Entities Updated (0)
+No existing entities required updates — new entities cover topics not previously represented in physiology subdomain.
+
+### Skipped (Already Covered)
+- `concurrent-training/` — already covered by existing concurrent-training.md entity (new review adds mechanistic depth but core content exists)
+- `VO2max/` — already covered by existing vo2max.md entity (new review adds cardiovascular detail but core content exists)
+- `恢复科学/` — content sufficiently covered by existing fatigue-recovery.md entity
+
+### Lint Results (2026-05-23)
+
+| Check | Count |
+|-------|-------|
+| Total wiki pages | 95 |
+| Broken wikilinks | 0 |
+| Orphan pages | 0 |
+| Frontmatter errors | 0 |
+| Index completeness errors | 0 |
+
+All pages pass lint checks.

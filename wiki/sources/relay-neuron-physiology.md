@@ -71,6 +71,41 @@ created: 2026-05-20
 - `2026-04-16-task-9-1-hormonal-response-resistance-training.md`
 - `2026-04-16-task-9-2-gut-microbiome-muscle-health.md`
 
+## Additional Subtopics (2026-05 Ingest)
+
+| Subtopic | Core Focus | Entity |
+|---------|-----------|--------|
+| [[蛋白质摄入时机]] | Anabolic window, leucine threshold, pre-sleep protein | [[entities/exercise-science/physiology/protein-timing]] |
+| [[过度训练]] | Overtraining syndrome, ACWR, HRV monitoring | [[entities/exercise-science/physiology/overtraining-syndrome]] |
+| [[恢复科学]] | Active recovery, compression garments, cold water immersion, sleep optimization | — (covered by fatigue-recovery) |
+| [[骨健康]] | Bone density, impact training, osteoporosis prevention | [[entities/exercise-science/physiology/bone-health-exercise]] |
+| [[功率训练]] | RFD, force-velocity curve, plyometrics, Olympic lifts | [[entities/exercise-science/physiology/power-training]] |
+| [[肠道肌肉轴]] | Gut microbiota, SCFA, probiotics, gut-muscle axis | [[entities/exercise-science/physiology/gut-muscle-axis]] |
+| [[关节肠道肌肉轴]] | Joint-gut-muscle axis, glucosamine, MSM, Omega-3 | [[entities/exercise-science/physiology/joint-gut-muscle-axis]] |
+| [[HIIT训练]] | HIIT cardiovascular/metabolic adaptations, EPOC | [[entities/exercise-science/physiology/hiit-training]] |
+| [[HIITvsMICT]] | HIIT vs MICT comparison, VO2max, insulin sensitivity | [[entities/exercise-science/physiology/hiitvsmict]] |
+| [[PAP]] | Post-activation potentiation, complex training, warm-up | [[entities/exercise-science/physiology/post-activation-potenti]] |
+
+## Key Findings (Updated 2026-05)
+
+**蛋白质合成**: Schoenfeld 三机制模型持续验证。mTOR 是核心调控因子。亮氨酸阈值 ~2.5g/餐。
+
+**蛋白质摄入时机**: 合成代谢窗口宽达 4-6 小时，每日总蛋白质摄入量比时机更重要。每餐 25-40g 蛋白质，每 3-4 小时一次。
+
+**过度训练综合征**: 交感-副交感神经平衡失调是核心机制。HRV、晨脉、RPE 是核心监控指标。ACWR 最佳范围 1.0-1.3。
+
+**功率训练**: RFD 是爆发性力量关键指标。最佳功率负荷 30-60% 1RM。神经驱动增强是主要适应机制。
+
+**骨健康**: 负重运动和高冲击训练是成骨核心。钙+维生素D是基础营养支持。力量训练对全身骨密度有效。
+
+**肠道肌肉轴**: SCFA（乙酸、丙酸、丁酸）通过 GPR41/43 受体调控肌肉代谢。益生菌可改善运动表现和恢复。
+
+**关节肠道肌肉轴**: 氨基葡萄糖+软骨素支持软骨，Omega-3+姜黄素管理系统性炎症，益生菌+谷氨酰胺维护肠道屏障。
+
+**HIIT vs MICT**: HIIT 在 VO2max 提升、胰岛素敏感性改善方面优于 MICT；MICT 在长期依从性方面更优。
+
+**PAP**: 高强度收缩后 8-15 分钟是最佳激活窗口。复合训练（力量+增强式）是有效应用形式。
+
 ## Related Entities
 
 - [[entities/exercise-science/physiology/muscle-hypertrophy]]
@@ -83,3 +118,12 @@ created: 2026-05-20
 - [[entities/exercise-science/physiology/training-frequency]]
 - [[entities/exercise-science/physiology/fatigue-recovery]]
 - [[entities/exercise-science/physiology/satellite-cells]]
+- [[entities/exercise-science/physiology/protein-timing]]
+- [[entities/exercise-science/physiology/overtraining-syndrome]]
+- [[entities/exercise-science/physiology/bone-health-exercise]]
+- [[entities/exercise-science/physiology/power-training]]
+- [[entities/exercise-science/physiology/gut-muscle-axis]]
+- [[entities/exercise-science/physiology/joint-gut-muscle-axis]]
+- [[entities/exercise-science/physiology/hiit-training]]
+- [[entities/exercise-science/physiology/hiitvsmict]]
+- [[entities/exercise-science/physiology/post-activation-potenti]]

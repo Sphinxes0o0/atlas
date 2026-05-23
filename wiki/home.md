@@ -9,7 +9,7 @@ updated: 2026-05-23
 
 > 运动科学知识库。从 pyramid 拆分而来，专注运动生理学、训练方法、跑步、营养补剂、生物力学、可穿戴技术。
 >
-> Last updated: 2026-05-23 | Total entities: ~77
+> Last updated: 2026-05-23 | Total entities: ~86
 
 ---
 
@@ -53,7 +53,7 @@ updated: 2026-05-23
 | Source | Description | Date |
 |--------|-------------|------|
 | [[sources/relay-neuron-overview]] | 运动科学文献总览 | 2026-04 |
-| [[sources/relay-neuron-physiology]] | 运动生理学：肌肥大、mTOR、BFR、VO2max等（~25主题）| 2026-05 |
+| [[sources/relay-neuron-physiology]] | 运动生理学：肌肥大、mTOR、BFR、VO2max、蛋白质摄入时机、过度训练、骨健康、功率训练等（~35主题）| 2026-05 |
 | [[sources/relay-neuron-training-methods]] | 间歇、节奏跑、LSD、阈值、坡度训练综合（5主题）| 2026-04 |
 | [[sources/relay-neuron-supplements]] | 姜黄素与辅酶Q10补剂深度研究（~30篇文献）| 2026-04 |
 | [[sources/relay-neuron-technology]] | 可穿戴设备、HRV监控、跑步功率计、AI/ML预测（10主题）| 2026-04 |

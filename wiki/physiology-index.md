@@ -22,6 +22,15 @@ created: 2026-05-22
 | [[entities/exercise-science/physiology/training-frequency]] | Training frequency: sessions per week and recovery | exercise-science, programming |
 | [[entities/exercise-science/physiology/fatigue-recovery]] | Fatigue and recovery: mechanisms and strategies | exercise-science, recovery |
 | [[entities/exercise-science/physiology/satellite-cells]] | Satellite cells: stem cells for muscle regeneration and adaptation | exercise-science, stem-cells |
+| [[entities/exercise-science/physiology/protein-timing]] | Anabolic window, leucine threshold, pre-sleep protein, protein distribution | exercise-science, nutrition |
+| [[entities/exercise-science/physiology/overtraining-syndrome]] | OTS: HPA axis, HRV monitoring, ACWR, recovery strategies | exercise-science, recovery |
+| [[entities/exercise-science/physiology/bone-health-exercise]] | Bone density, impact training, osteoporosis, calcium/vitamin D | exercise-science, skeletal |
+| [[entities/exercise-science/physiology/power-training]] | RFD, force-velocity curve, plyometrics, Olympic lifts, SSC | exercise-science, strength |
+| [[entities/exercise-science/physiology/gut-muscle-axis]] | Gut microbiota, SCFA, probiotics, gut-muscle axis, sarcopenia | exercise-science, microbiome |
+| [[entities/exercise-science/physiology/joint-gut-muscle-axis]] | Joint-gut-muscle axis, glucosamine, MSM, Omega-3, curcumin | exercise-science, inflammation |
+| [[entities/exercise-science/physiology/hiit-training]] | HIIT: VO2max, EPOC, insulin sensitivity, metabolic adaptations | exercise-science, cardio |
+| [[entities/exercise-science/physiology/hiitvsmict]] | HIIT vs MICT: comparative effects, time efficiency, adherence | exercise-science, cardio |
+| [[entities/exercise-science/physiology/post-activation-potenti]] | PAP: complex training, warm-up, neural mechanisms, RFD | exercise-science, strength |
 
 ## Cross-References
 
