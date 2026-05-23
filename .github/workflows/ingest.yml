@@ -1,0 +1,27 @@
+name: Auto-ingest from Relay Neuron
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout atlas
+        uses: actions/checkout@v4
+
+      - name: Clone relay-neuron (public)
+        run: |
+          git clone --depth 1 https://github.com/Sphinxes0o0/relay-neuron.git /tmp/relay-src
+
+      - name: Sync raw sources
+        run: |
+          rsync -av --delete /tmp/relay-src/research/ raw/github/relay-neuron/research/
+
+      - name: Ingest (MiniMax → Copilot fallback)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MINIMAX_CN_API_KEY: ${{ secrets.MINIMAX_CN_API_KEY }}
+        run: python3 scripts/ingest_wiki.py . github/relay-neuron
