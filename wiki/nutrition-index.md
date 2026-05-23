@@ -2,11 +2,12 @@
 type: index
 tags: [exercise-science, nutrition]
 created: 2026-05-22
+updated: 2026-05-23
 ---
 
 # Exercise Science — Nutrition
 
-> Protein metabolism, carbohydrate periodization, omega-3, and ketogenic diets
+> Protein metabolism, carbohydrate periodization, omega-3, ketogenic diets, hydration, gut microbiome, and competition nutrition
 
 ## Entities
 
@@ -16,6 +17,9 @@ created: 2026-05-22
 | [[entities/exercise-science/nutrition/carb-periodization]] | Carbohydrate periodization: glycogen loading, pre/post workout, carb addiction | exercise-science, nutrition |
 | [[entities/exercise-science/nutrition/omega3]] | Omega-3: anti-inflammatory, muscle synthesis, cognitive function | exercise-science, nutrition |
 | [[entities/exercise-science/nutrition/ketogenic-diet]] | Ketogenic diet: carb restriction, ketone body metabolism, metabolic adaptation | exercise-science, nutrition |
+| [[entities/exercise-science/nutrition/hydration-electrolytes]] | Hydration & electrolytes: fluid balance, sodium management, hyponatremia prevention | exercise-science, nutrition |
+| [[entities/exercise-science/nutrition/gut-microbiome-sports]] | Gut microbiome: SCFA production, exercise-induced adaptations, gut barrier | exercise-science, nutrition |
+| [[entities/exercise-science/nutrition/in-competition-nutrition]] | Competition nutrition: carb loading, race-day fueling, dual-transporter strategy | exercise-science, nutrition |
 
 ## Cross-References
 
@@ -23,3 +27,4 @@ created: 2026-05-22
 - [[supplements-index]] — Bioavailability of curcumin and CoQ10 can be affected by food/fat intake
 - [[training-index]] — Carb periodization is a periodization sub-discipline; protein timing around training
 - [[exercise-health-index]] — Ketogenic diet and omega3 both relevant to metabolic health
+- [[running-index]] — Competition nutrition and hydration critical for running performance

@@ -67,6 +67,8 @@ EPA/DHA → 细胞膜磷脂组成改变
 - [[entities/exercise-science/physiology/fatigue-recovery]] — 疲劳与恢复机制
 - [[entities/exercise-science/physiology/muscle-hypertrophy]] — 肌肉损伤与修复
 - [[entities/exercise-science/nutrition/protein]] — 蛋白质合成
+- [[entities/exercise-science/nutrition/hydration-electrolytes]] — 水合状态影响炎症反应
+- [[entities/exercise-science/nutrition/gut-microbiome-sports]] — 肠道微生物调节全身炎症
 
 ## 来源详情
 

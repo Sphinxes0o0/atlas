@@ -109,6 +109,9 @@ sources: [relay-neuron-physiology]
 - [[entities/exercise-science/physiology/concurrent-training]] — 并发训练
 - [[entities/exercise-science/nutrition/protein]] — 蛋白质代谢
 - [[entities/exercise-science/supplements/curcumin/curcumin-diabetes]] — 姜黄素与糖尿病
+- [[entities/exercise-science/health/exercise-mental-health]] — 运动与心理健康
+- [[entities/exercise-science/health/aging-sarcopenia]] — 衰老与肌少症
+- [[entities/exercise-science/health/exercise-sleep]] — 运动与睡眠质量
 
 ## 来源详情
 

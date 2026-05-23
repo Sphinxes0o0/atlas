@@ -55,6 +55,9 @@ sources: [relay-neuron-physiology]
 - [[entities/exercise-science/physiology/mtor-pathway]] — mTOR 信号通路（亮氨酸激活靶点）
 - [[entities/exercise-science/nutrition/omega3]] — Omega-3 与蛋白质合成协同
 - [[entities/exercise-science/physiology/fatigue-recovery]] — 蛋白质在运动恢复中的作用
+- [[entities/exercise-science/nutrition/hydration-electrolytes]] — 水合状态影响蛋白质代谢
+- [[entities/exercise-science/nutrition/gut-microbiome-sports]] — 肠道健康影响蛋白质利用率
+- [[entities/exercise-science/nutrition/in-competition-nutrition]] — 赛中蛋白质补充策略
 
 ## 来源详情
 

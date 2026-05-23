@@ -58,6 +58,8 @@ Burke et al. (*Sports Medicine* 2018) 提出的糖原阈值假说指出：训练
 - [[entities/exercise-science/physiology/fatigue-recovery]] — 训练恢复
 - [[entities/exercise-science/nutrition/protein]] — 蛋白质合成
 - [[entities/exercise-science/nutrition/omega3]] — Omega-3抗炎
+- [[entities/exercise-science/nutrition/in-competition-nutrition]] — 赛中碳水补给策略
+- [[entities/exercise-science/nutrition/gut-microbiome-sports]] — 肠道微生物与碳水代谢
 
 ## 来源详情
 

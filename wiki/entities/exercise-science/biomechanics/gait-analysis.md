@@ -98,6 +98,8 @@ sources: [relay-neuron-physiology]
 - [[entities/exercise-science/running/running-economy]] — 跑步经济性
 - [[entities/exercise-science/running/trail-running]] — 越野跑
 - [[entities/exercise-science/biomechanics/running-shoes]] — 跑鞋
+- [[entities/exercise-science/biomechanics/cadence-stride]] — 步频步幅优化
+- [[entities/exercise-science/biomechanics/running-injury-biomechanics]] — 跑步损伤生物力学
 
 ## 来源详情
 

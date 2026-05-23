@@ -94,6 +94,8 @@ sources: [relay-neuron-physiology]
 - [[entities/exercise-science/running/running-economy]] — 跑步经济性
 - [[entities/exercise-science/physiology/vo2max]] — 最大摄氧量
 - [[entities/exercise-science/physiology/fatigue-recovery]] — 疲劳恢复
+- [[entities/exercise-science/nutrition/in-competition-nutrition]] — 赛中营养策略
+- [[entities/exercise-science/running/trail-running-psychology]] — 超耐力心理韧性
 
 ## 来源详情
 

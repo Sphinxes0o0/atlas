@@ -2,11 +2,12 @@
 type: index
 tags: [exercise-science, biomechanics]
 created: 2026-05-22
+updated: 2026-05-23
 ---
 
 # Exercise Science — Biomechanics
 
-> Gait analysis and running shoe technology
+> Gait analysis, running shoe technology, cadence optimization, and injury biomechanics
 
 ## Entities
 
@@ -14,6 +15,8 @@ created: 2026-05-22
 |--------|-------------|------|
 | [[entities/exercise-science/biomechanics/gait-analysis]] | Gait analysis: ground contact time, vertical oscillation, stride metrics | exercise-science, biomechanics |
 | [[entities/exercise-science/biomechanics/running-shoes]] | Running shoes: cushioning, pronation support, carbon plate technology | exercise-science, biomechanics |
+| [[entities/exercise-science/biomechanics/cadence-stride]] | Cadence & stride: step rate optimization, overstriding prevention | exercise-science, biomechanics |
+| [[entities/exercise-science/biomechanics/running-injury-biomechanics]] | Injury biomechanics: GRF loading, kinetic chain, gait retraining | exercise-science, biomechanics |
 
 ## Cross-References
 

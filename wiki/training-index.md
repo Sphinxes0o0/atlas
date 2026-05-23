@@ -2,17 +2,18 @@
 type: index
 tags: [exercise-science, training]
 created: 2026-05-22
+updated: 2026-05-23
 ---
 
 # Exercise Science — Training Methodology
 
-> Periodization, tapering, and specific training methods
+> Periodization, tapering, specific training methods, and periodization models
 
 ## Entities
 
 | Entity | Description | Tags |
 |--------|-------------|------|
-| [[entities/exercise-science/training/periodization]] | Periodization: linear/wave/ block periodization models | exercise-science, training |
+| [[entities/exercise-science/training/periodization]] | Periodization: linear/wave/block periodization models | exercise-science, training |
 | [[entities/exercise-science/training/tapering]] | Tapering: pre-competition dose reduction, supercompensation | exercise-science, training |
 | [[entities/exercise-science/training/training-methods]] | Training methods: EIA, lactate threshold, interval training | exercise-science, training |
 

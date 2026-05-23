@@ -73,6 +73,8 @@ sources: [relay-neuron-physiology]
 - [[entities/exercise-science/running/running-economy]] — 跑步经济性
 - [[entities/exercise-science/running/ultra-endurance]] — 超耐力运动
 - [[entities/exercise-science/biomechanics/gait-analysis]] — 步态分析
+- [[entities/exercise-science/running/trail-running-injuries]] — 越野跑损伤预防
+- [[entities/exercise-science/running/trail-running-psychology]] — 越野跑心理学
 
 ## 来源详情
 
