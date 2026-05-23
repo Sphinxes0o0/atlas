@@ -123,3 +123,28 @@ No existing entities required updates — new entities cover topics not previous
 | Index completeness errors | 0 |
 
 All pages pass lint checks.
+
+## [2026-05-23] ingest | Training Methods subtopics (11 new entities)
+
+Ingested training-methods subtopic directories from relay-neuron.
+
+### Source Pages Updated (2)
+- `sources/relay-neuron-training-methods.md` — added 21 new subdirs
+- `sources/relay-neuron-supplements.md` — added 24 new supplement entries
+
+### Entity Pages Created (11 new)
+- `entities/exercise-science/training/altitude-training.md` — LHTL, HiHiLo, EPO response
+- `entities/exercise-science/training/isometric-training.md` — MVC, angle-specific strength
+- `entities/exercise-science/training/cluster-training.md` — Micro-sets, intraset rest
+- `entities/exercise-science/training/blood-flow-restriction-training.md` — BFR, Kaatsu
+- `entities/exercise-science/training/electrical-stimulation-training.md` — EMS, NMES
+- `entities/exercise-science/training/eccentric-overload-training.md` — Eccentric training
+- `entities/exercise-science/training/youth-training.md` — LTAD, PHV
+- `entities/exercise-science/training/training-autoregulation.md` — RPE, ACWR
+
+### Entity Pages Updated (1)
+- `periodization.md` — enhanced with relay-neuron content
+
+### Index Pages Updated (2)
+- `training-index.md` — added 8 new entities
+- `supplements-index.md` — added 10 new supplement entries

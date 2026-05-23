@@ -54,13 +54,87 @@ summary: "间歇训练、节奏跑、LSD、阈值训练、坡度训练综合研�
 - 下坡挑战：离心收缩增加、关节冲击增大、需要更好的缓冲技术
 - 训练处方：初级每周1次10×1分钟；中级每周1-2次8-12×2分钟
 
-## 来源文件
+## 来源文件（原有）
 
 - 2026-04-12-task-2-1-interval-training.md
 - 2026-04-12-task-2-2-tempo-run.md
 - 2026-04-12-task-2-3-LSD-easy-run.md
 - 2026-04-12-task-2-4-threshold-training.md
 - 2026-04-12-task-2-5-hill-training.md
+
+## 来源文件（新增 2026-05-23）
+
+### 训练方法综述
+- 2026-05-23-task-3-1-高原训练综述.md (LHTL/HiHiLo altitude training)
+- 2026-05-23-task-3-2-肌肉Conditioning综述.md (Muscle conditioning/activation)
+- 2026-05-23-task-3-3-训练分化综述.md (Training split)
+- 2026-05-23-task-3-4-耐力训练综述.md (Endurance training methods)
+- 2026-05-23-task-3-5-等长训练综述.md (Isometric training)
+- 2026-05-23-task-3-6-Cluster训练综述.md (Cluster training)
+- 2026-05-23-task-3-7-热身拉伸综述.md (Warm-up/stretching)
+- 2026-05-23-task-3-8-周期化训练综述.md (Training periodization)
+- 2026-05-23-task-3-9-训练自动调节综述.md (Training autoregulation)
+- 2026-05-23-task-3-10-冲刺训练综述.md (Sprint training)
+- 2026-05-23-task-3-11-电刺激训练综述.md (Electrical muscle stimulation)
+- 2026-05-23-task-3-12-离心超负荷综述.md (Eccentric overload training)
+- 2026-05-23-task-3-13-本体感觉平衡综述.md (Proprioception/balance)
+- 2026-05-23-task-3-14-心理训练表象综述.md (Mental imagery training)
+- 2026-05-23-task-3-15-呼吸训练综述.md (Respiratory training)
+- 2026-05-23-task-3-16-拉伸柔韧性综述.md (Stretching/flexibility)
+- 2026-05-23-task-3-17-青少年训练综述.md (Youth training)
+- 2026-05-23-task-3-18-血流限制训练综述.md (Blood flow restriction training)
+- 2026-05-23-task-3-19-功能训练综述.md (Functional training)
+- 2026-05-23-task-3-20-核心训练综述.md (Core training)
+- 2026-05-23-task-3-21-增强训练综述.md (Plyometric training)
+
+### 目录结构
+```
+training-methods/
+├── 00_综合综述/
+│   └── 00_核心训练综述.md
+├── 高原训练/
+│   └── 00_高原训练综述.md
+├── 肌肉Conditioning/
+│   └── 00_肌肉Conditioning综述.md
+├── 训练分化/
+│   └── 00_训练分化综述.md
+├── 耐力训练/
+│   └── 00_耐力训练综述.md
+├── 等长训练/
+│   └── 00_等长训练综述.md
+├── Cluster训练/
+│   └── 00_Cluster训练综述.md
+├── 热身拉伸/
+│   └── 00_热身拉伸综述.md
+├── 周期化训练/
+│   └── 00_周期化训练综述.md
+├── 训练自动调节/
+│   └── 00_训练自动调节综述.md
+├── 冲刺训练/
+│   └── 00_冲刺训练综述.md
+├── 电刺激训练/
+│   └── 00_电刺激训练综述.md
+├── 离心超负荷/
+│   └── 00_离心超负荷综述.md
+├── 本体感觉平衡/
+│   └── 00_本体感觉平衡综述.md
+├── 心理训练/
+│   └── 00_心理训练表象综述.md
+├── 呼吸训练/
+│   └── 00_呼吸训练综述.md
+├── 拉伸柔韧性/
+│   └── 00_拉伸柔韧性综述.md
+├── 青少年训练/
+│   └── 00_青少年训练综述.md
+├── 血流限制训练/
+│   └── 00_血流限制训练综述.md
+├── 功能训练/
+│   └── 00_功能训练综述.md
+├── 核心训练/
+│   └── 00_核心训练综述.md
+└── 增强训练/
+    └── 00_增强训练综述.md
+```
 
 ## 相关页面
 

@@ -30,6 +30,22 @@ created: 2026-05-22
 | [[entities/exercise-science/supplements/coq10/coq10-statin-myopathy]] | Statin myopathy: bypasses mevalonate pathway, supports mitochondria | **Strong** (RCT) |
 | [[entities/exercise-science/supplements/coq10/coq10-bioavailability]] | Bioavailability: ubiquinol vs ubiquinone, elderly/patients prefer ubiquinol | Clear |
 
+## Other Supplements (New 2026-05-23)
+
+| Entity | Description | Evidence |
+|--------|-------------|----------|
+| Iron | Iron and exercise performance, absorption promotion | RCT |
+| Creatine | Creatine supplementation research | Strong |
+| Melatonin | Sleep regulation research | Moderate |
+| Spirulina | Comprehensive nutrition analysis | Moderate |
+| DMAE | Cognitive focus and attention | Moderate |
+| Garcinia Cambogia | Weight management | Limited |
+| CLA | Conjugated linoleic acid research | Moderate |
+| Reishi (Lingzhi) | Immune support and adaptogens | Moderate |
+| Ashwagandha | Adaptogens and exercise performance | Moderate |
+| Vitamin B12 | Energy metabolism | Moderate |
+| Protein powder types | Protein type comparison | Strong |
+
 ## Cross-References
 
 - [[physiology-index]] — Both supplements support fatigue recovery and muscle energy metabolism

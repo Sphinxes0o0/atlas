@@ -1,20 +1,50 @@
 ---
 type: source
 source-type: github
-title: "Relay Neuron — 补剂深度研究：姜黄素与辅酶Q10"
+title: "Relay Neuron — 补剂深度研究"
 owner: Sphinxes0o0
 repo: relay-neuron
 path: research/supplements/
 date: 2026-04-12
-size: medium
-summary: "姜黄素(~20篇)和辅酶Q10(~10篇)多系统健康功效文献分析，涵盖糖尿病/代谢、肝脏、炎症、神经、肾脏、心血管及生物利用度增强。"
+size: large
+summary: "补剂综合研究：姜黄素、辅酶Q10、铁、肌酸、褪黑素、螺旋藻、CLA、灵芝等20+补剂的2024-2026文献分析。"
 tags: [exercise-science, supplements]
 created: 2026-05-20
+updated: 2026-05-23
 ---
 
 # Relay Neuron — 补剂深度研究
 
 健身与运动科学文献存档 [relay-neuron](https://github.com/Sphinxes0o0/relay-neuron) 中的补剂深度研究模块。
+
+## 补剂目录（新增 2026-05-23）
+
+| 补剂 | 路径 | 主要内容 |
+|------|------|---------|
+| 铁 | supplements/铁/ | 铁与运动表现、吸收促进、形式比较 |
+| 肌酸 | supplements/ | 肌酸补充研究 |
+| 褪黑素 | supplements/褪黑素/ | 睡眠调节研究 |
+| 螺旋藻 | supplements/螺旋藻文献分析/ | 综合营养分析 |
+| DMAE | supplements/DMAE文献分析/ | 认知与专注 |
+| 藤黄果 | supplements/藤黄果/ | 体重管理 |
+| 共轭亚油酸 | supplements/共轭亚油酸/ | CLA研究 |
+| 灵芝 | supplements/灵芝文献分析/ | 免疫支持 |
+| 乙酰左旋肉碱 | supplements/乙酰左旋肉碱/ | 认知与能量 |
+| 力量运动员补剂 | supplements/力量运动员补剂/ | 力量专项 |
+| 耐力补剂 | supplements/耐力补剂文献分析/ | 耐力专项 |
+| 力量爆发力补剂 | supplements/力量爆发力补剂/ | 爆发力专项 |
+| 南非醉茄 | supplements/南非醉茄文献分析/ | 适应原研究 |
+| 维生素B12 | supplements/维生素B12文献分析/ | 能量代谢 |
+| 蛋白粉类型 | supplements/蛋白粉类型文献分析/ | 蛋白类型比较 |
+| 消化酶 | supplements/消化酶文献分析/ | 消化与抗炎 |
+| 碳水化合物 | supplements/碳水化合物/ | 血糖指数、周期化 |
+| 脂肪 | supplements/脂肪/ | 脂肪类型研究 |
+| 钙 | supplements/钙/ | 钙综述 |
+| 铬 | supplements/铬/ | 铬研究 |
+| 钠 | supplements/钠/ | 钠摄入研究 |
+| 氮泵 | supplements/氮泵文献分析/ | 促训成分 |
+| 石杉碱甲 | supplements/石杉碱甲文献分析/ | 记忆增强 |
+| 补剂周期化 | supplements/补剂周期化/ | 周期化策略 |
 
 ## 姜黄素文献分析（~20篇，7个类别）
 
