@@ -32,6 +32,17 @@ created: 2026-05-22
 | [[entities/exercise-science/physiology/hiitvsmict]] | HIIT vs MICT: comparative effects, time efficiency, adherence | exercise-science, cardio |
 | [[entities/exercise-science/physiology/post-activation-potenti]] | PAP: complex training, warm-up, neural mechanisms, RFD | exercise-science, strength |
 | [[entities/exercise-science/physiology/muscle-function-training]] | Anatomy-function-injury: 56 muscles upper/lower/core | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/quadriceps-function]] | Quadriceps group: RF, VL, VM, VI; knee extension | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/hamstrings-function]] | Hamstrings group: BF, ST, SM; hip extension + knee flexion | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/gluteal-muscles]] | Gluteal group: GMax, GMed, GMin; hip extensors/abductors | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/core-muscles]] | Core group: TrA, IO, EO, RA; spinal stability | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/back-muscles]] | Back group: traps, lats, erectors, rhomboids, serratus | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/shoulder-muscles]] | Shoulder group: deltoid, rotator cuff, pec major | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/arm-muscles]] | Arm group: biceps, triceps, brachialis, forearms | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | Lower leg + hip: calves, TFL, adductors, piriformis | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/recovery-science]] | Recovery mechanisms, strategies, monitoring | exercise-science, recovery |
+| [[entities/exercise-science/physiology/strength-training]] | Strength training methods, periodization | exercise-science, strength |
+| [[entities/exercise-science/physiology/obesity]] | Obesity, body composition, metabolic health | exercise-science, metabolism |
 | [[entities/exercise-science/physiology/resistance-training]] | External resistance training: mechanical tension, hormonal response, neural adaptations | exercise-science, strength |
 | [[entities/exercise-science/physiology/doms]] | Delayed onset muscle soreness: muscle damage, inflammation, recovery timeline | exercise-science, recovery |
 | [[entities/exercise-science/physiology/plyometric-training]] | Plyometrics: stretch-shortening cycle, reactive strength, explosive power | exercise-science, power |
