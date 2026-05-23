@@ -1,0 +1,7 @@
+# Obsidian workspace (personal per-machine config)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+wiki/.obsidian/workspace.json
+
+# macOS
+.DS_Store
