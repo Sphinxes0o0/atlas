@@ -53,18 +53,18 @@ updated: 2026-05-23
 | Source | Description | Date |
 |--------|-------------|------|
 | [[sources/relay-neuron-overview]] | 运动科学文献总览 | 2026-04 |
-| [[sources/relay-neuron-physiology]] | 运动生理学：肌肥大、mTOR、BFR、VO2max、蛋白质摄入时机、过度训练、骨健康、功率训练等（~35主题）| 2026-05 |
-| [[sources/relay-neuron-training-methods]] | 间歇、节奏跑、LSD、阈值、坡度训练综合（5主题）| 2026-04 |
-| [[sources/relay-neuron-supplements]] | 姜黄素与辅酶Q10补剂深度研究（~30篇文献）| 2026-04 |
-| [[sources/relay-neuron-technology]] | 可穿戴设备、HRV监控、跑步功率计、AI/ML预测（10主题）| 2026-04 |
+| [[sources/relay-neuron-physiology]] | 运动生理学：肌肥大、mTOR、BFR、冷热疗法、免疫、表观遗传、神经驱动、疲劳机制、线粒体功能、肌肉功能解剖（~50主题）| 2026-05 |
+| [[sources/relay-neuron-training-methods]] | 间歇、节奏跑、LSD、阈值、坡度训练、灵活性柔韧、周期化、高原训练（~20主题）| 2026-05 |
+| [[sources/relay-neuron-supplements]] | 姜黄素、辅酶Q10、肌酸、HMB、β-丙氨酸、BCAAs、左旋肉碱、谷氨酰胺（~40篇文献）| 2026-05 |
+| [[sources/relay-neuron-technology]] | 可穿戴设备、HRV监控、跑步功率计、AI/ML预测、生物调节恢复技术（~15主题）| 2026-05 |
 | [[sources/relay-neuron-population-specific]] | 青少年、中老年、女性、精英、休闲跑者专项研究（6主题）| 2026-04 |
 | [[sources/relay-neuron-obesity-literature]] | 中国肥胖文献分析：23篇，5大系统 | 2026-04 |
 | [[sources/relay-neuron-kinesiology-tape]] | 运动肌贴原理、临床应用（5主题，2024-2026）| 2026-04 |
-| [[sources/relay-neuron-nutrition]] | 运动营养：碳水周期化、蛋白质、Omega-3、生酮、补水等（28主题）| 2026-04 |
-| [[sources/relay-neuron-periodization]] | 训练周期化：线性/波浪式、马拉松/越野赛周期化、减量科学（6主题）| 2026-04 |
+| [[sources/relay-neuron-nutrition]] | 运动营养：碳水周期化、蛋白质、Omega-3、生酮、补水、肠道微生物组与肌肉健康（~35主题）| 2026-05 |
+| [[sources/relay-neuron-periodization]] | 训练周期化：线性/波浪式/块周期化、马拉松/越野赛周期化、减量科学、高原低氧训练（~10主题）| 2026-05 |
 | [[sources/relay-neuron-sport-specific]] | 跑步专项：越野跑生理/损伤/心理、超耐力（11主题）| 2026-04 |
-| [[sources/relay-neuron-health-applications]] | 运动健康应用：心理健康、心血管、糖尿病、衰老、睡眠（7主题）| 2026-04 |
-| [[sources/relay-neuron-biomechanics]] | 跑步生物力学：步态分析、步频步幅、损伤生物力学、跑鞋（6主题）| 2026-04 |
+| [[sources/relay-neuron-health-applications]] | 运动健康应用：心理健康、心血管、糖尿病、衰老、睡眠、认知功能、GI健康、运动心理学、月经周期、更年期骨健康（~20主题）| 2026-05 |
+| [[sources/relay-neuron-biomechanics]] | 跑步生物力学：步态分析、步频步幅、损伤生物力学、跑鞋、软组织修复、筋膜训练（~12主题）| 2026-05 |
 | [[sources/relay-neuron-synthesis]] | 跨主题综合研究（25轮次）| 2026-04 |
 
 ---

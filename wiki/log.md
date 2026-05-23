@@ -148,3 +148,48 @@ Ingested training-methods subtopic directories from relay-neuron.
 ### Index Pages Updated (2)
 - `training-index.md` — added 8 new entities
 - `supplements-index.md` — added 10 new supplement entries
+
+## [2026-05-23] ingest | 133 root research tasks — enhanced existing source pages
+
+Processed 133 root-level research task files (2026-05-03 to 2026-05-23) from relay-neuron. All files matched to existing source pages; 1 new entity page created for 56-muscle-function-training batch.
+
+### Source Pages Updated (7)
+- `sources/relay-neuron-supplements.md` — added summaries: creatine (ATP-PCr, +8-10% strength), HMB (anti-catabolic, elderly sarcopenia), beta-alanine (carnosine +40-80%, TEE +13-14%), BCAAs (mTOR/leucine threshold), L-carnitine (clinical benefits, TMAO controversy), glutamine (marathon infection -60%)
+- `sources/relay-neuron-physiology.md` — added summaries: cold/heat therapy (CWI/CWT tradeoffs), exercise immunology (J-curve), exercise epigenetics (DNA methylation/telomere), neural drive (motor unit recruitment ↑), fatigue mechanisms (central/peripheral, TMS/EMG), mitochondrial benefits/limitations, mTORC1 benefits/hyperactivation risks, carotid body/VO2max, muscle function training
+- `sources/relay-neuron-health-applications.md` — added summaries: cardiac exercise (VO2max strongest mortality predictor, n=122,007), cognitive performance (BDNF/hippocampal), GI health/EIGS (40-70% endurance athletes), exercise psychology (depression, meditation), injury fear (CBT graded exposure), menstrual cycle (follicular +13-40pp strength), menopause bone (LIFTMOR), altitude training (LHTL HiLo, 45-65% responders)
+- `sources/relay-neuron-training-methods.md` — added summaries: flexibility/mobility (dynamic > static for warm-up), periodization models (DUP/block), altitude/hypoxia training (HIF/EPO)
+- `sources/relay-neuron-biomechanics.md` — added summaries: soft tissue repair (BRI paradigm, eccentric exercise), soft tissue injury risks (multifactorial, previous injury strongest), gait analysis benefits/risks (RE +3-8%, injury -20-40%), fascia training (limited RCT, proprioceptive)
+- `sources/relay-neuron-technology.md` — added summaries: biohacking wearables (HRV/CGM/AI, 78-92%), bioregulators recovery (WBC/PBM/IH/EMS), skin cooling (pre-cool +2-8%), carotid body function, quantum bioenergetics (CoQ10)
+- `sources/relay-neuron-nutrition.md` — added summaries: gut microbiome-muscle health (SCFAs, GPR41/43), gut barrier benefits/risks (EIGS mechanism), exercise genetics (ACTN3/ACE/PPARGC1A), mitochondrial nutrition, quantum bioenergetics
+- `sources/relay-neuron-periodization.md` — added summaries: periodization models (linear/DUP/block comparison), altitude/hypoxia training (HIF/EPO mechanisms, LHTL/HiHiLo)
+
+### Entity Pages Created (1 new)
+- `entities/exercise-science/physiology/muscle-function-training.md` — Comprehensive 56-muscle consolidation: upper limb (deltoid, rotator cuff, pectoralis, latissimus, biceps/triceps, brachialis, forearm), lower limb (gluteus maximus/medius/minimus, adductors, iliopsoas, quadriceps, hamstrings, calf/soleus, peroneals), core (transversus abdominis, erector spinae, deep core, abdominal wall). Anatomical function → training implications → injury risk.
+
+### Index Pages Updated (2)
+- `physiology-index.md` — added muscle-function-training entity
+- `home.md` — updated source descriptions (physiology ~50 topics, training-methods ~20, supplements ~40, technology ~15, nutrition ~35, periodization ~10, health-applications ~20, biomechanics ~12); updated last updated date
+
+### Skipped (Already Covered)
+- 56 individual muscle function training files → consolidated into single muscle-function-training.md entity page (organized by anatomical region with function-training-injury mapping)
+- Periodization models risks (2026-05-13-task-3-2-periodization-models-risks.md) — sufficiently covered by overtraining-syndrome entity
+- Menstrual cycle benefits/risks — covered in health-applications source page summary
+- Menopause bone benefits/risks — covered in health-applications source page summary
+- Meditation performance — covered in health-applications source page summary
+- Injury fear benefits — covered in health-applications source page summary
+- Altitude training — added to both periodization source page and altitude-training entity
+- Soft tissue repair supplement — sufficient detail in biomechanics source page summary
+- Biohacking wearables limitations — sufficient detail in technology source page summary
+- Bioregulators recovery risks — sufficient detail in technology source page summary
+
+### Lint Results (2026-05-23)
+
+| Check | Count |
+|-------|-------|
+| Total wiki pages | 96 |
+| Broken wikilinks | 0 |
+| Orphan pages | 0 |
+| Frontmatter errors | 0 |
+| Index completeness errors | 0 |
+
+All pages pass lint checks. No orphan pages, no broken wikilinks, all entities registered in physiology-index.

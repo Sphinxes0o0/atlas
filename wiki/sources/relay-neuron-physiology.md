@@ -106,6 +106,35 @@ created: 2026-05-20
 
 **PAP**: 高强度收缩后 8-15 分钟是最佳激活窗口。复合训练（力量+增强式）是有效应用形式。
 
+## 2026-05 新增研究摘要
+
+### 冷/热疗法恢复
+冷水浸泡(CWI)、热疗、对比疗法(CWT)的证据表明：可减轻DOMS(疼痛↓)、但可能抑制训练适应(蛋白质合成↓)。热适应需10-14天。建议：CWI用于急性损伤后恢复，热疗用于慢性僵硬，对比疗法用于重复性运动项目。
+
+### 运动免疫学
+J型曲线描述运动强度与感染风险关系：中等强度运动增强免疫监视，降低上呼吸道感染(URTI)风险。过度训练/高强度马拉松后72小时内免疫抑制窗口期明显。规律中等强度运动是关键。
+
+### 运动表观遗传学
+运动通过DNA甲基化、端粒延长、组织蛋白修饰调控基因表达。规律运动可延缓细胞衰老(端粒长度增加)、促进代谢健康基因表达。对寿命和代谢健康有积极表观遗传效应。
+
+### 神经驱动 (Neural Drive)
+阻力训练引起的关键神经适应：运动单位招募率↑、皮层脊髓兴奋性↑、随意激活能力↑。训练初期力量提升50%来自神经适应。神经驱动增强是力量训练早期的主要适应机制。
+
+### 疲劳机制
+中枢性疲劳(皮层脊髓)：运动皮质输出减少，5-HT、多巴胺、GABA参与调控。外周性疲劳(肌肉代谢)：代谢产物积累(H⁺、Pi、无机磷酸盐)导致肌丝脱敏。TMS/EMG是研究金标准。两者在不同运动模式中权重不同。
+
+### 线粒体功能
+运动激活PGC-1α驱动线粒体生物合成，提升ETC功能，促进有丝分裂和NAD+信号。适度训练是线粒体适应核心。过量训练导致氧化损伤、mtDNA突变、电子泄漏，线粒体功能反而下降。
+
+### mTOR通路
+mTORC1是蛋白质合成的分子开关。亮氨酸阈值~2.5g/餐激活mTORC1。过度激活风险：肥胖、2型糖尿病、神经退行性疾病、肿瘤发育。适度激活对肌肉生长必要但需平衡。
+
+### 颈动脉体与VO2max适应性
+颈动脉体调节VO2max训练响应性和耐力适应（通过交感信号）。去神经支配动物VO2max改善减弱。高反应者颈动脉体敏感性低。过度激活：通气疲劳、交感神经过度活跃、高海拔HAPE风险。
+
+### 肌肉功能解剖训练
+56个肌肉功能研究文件综合分析，涵盖上肢/下肢/核心肌群的解剖-功能-损伤关联。见：[[entities/exercise-science/physiology/muscle-function-training]]
+
 ## Related Entities
 
 - [[entities/exercise-science/physiology/muscle-hypertrophy]]
@@ -127,3 +156,4 @@ created: 2026-05-20
 - [[entities/exercise-science/physiology/hiit-training]]
 - [[entities/exercise-science/physiology/hiitvsmict]]
 - [[entities/exercise-science/physiology/post-activation-potenti]]
+- [[entities/exercise-science/physiology/muscle-function-training]]

@@ -31,6 +31,7 @@ created: 2026-05-22
 | [[entities/exercise-science/physiology/hiit-training]] | HIIT: VO2max, EPOC, insulin sensitivity, metabolic adaptations | exercise-science, cardio |
 | [[entities/exercise-science/physiology/hiitvsmict]] | HIIT vs MICT: comparative effects, time efficiency, adherence | exercise-science, cardio |
 | [[entities/exercise-science/physiology/post-activation-potenti]] | PAP: complex training, warm-up, neural mechanisms, RFD | exercise-science, strength |
+| [[entities/exercise-science/physiology/muscle-function-training]] | Anatomy-function-injury: 56 muscles upper/lower/core | exercise-science, anatomy |
 
 ## Cross-References
 
