@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6e90d66dc37c3e5b2a747d16819a89dc7a6cd03b1c8ee8d86fd241a4e9790a6
-size 339
+[project]
+name = "scientific-agent-skills"
+version = "2.37.1"
+description = "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cisco-ai-skill-scanner>=2.0.8",
+    "firecrawl-py>=4.9.0",
+    "python-dotenv>=1.0.0",
+]

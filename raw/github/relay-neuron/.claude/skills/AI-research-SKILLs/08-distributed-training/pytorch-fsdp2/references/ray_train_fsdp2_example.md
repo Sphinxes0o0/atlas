@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12f3f3f618b9ae59361bbbb0006439f9c5132d802f5faeb900c3f9cd97f0c3a9
-size 592
+# Reference: Ray Train FSDP2 integration guide (third-party, useful patterns)
+
+**Source (third-party):** Ray docs — “Get started with PyTorch FSDP2 (Ray Train)”  
+https://docs.ray.io/en/latest/train/examples/pytorch/pytorch-fsdp/README.html
+
+## Why include this
+- Shows how to integrate FSDP2 into a higher-level training orchestrator.
+- Mentions common mitigation knobs (mixed precision, CPU offload, sharding granularity).
+- Demonstrates checkpointing with DCP in a managed training environment.
+
+## Agent guidance
+Use as integration inspiration, not as the semantic source of truth.

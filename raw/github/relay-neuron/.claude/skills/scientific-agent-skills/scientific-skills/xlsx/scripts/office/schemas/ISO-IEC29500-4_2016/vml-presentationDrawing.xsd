@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:133c9f64a5c5d573b78d0a474122b22506d8eadb5e063f67cdbbb8fa2f161d0e
-size 535
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns="urn:schemas-microsoft-com:office:powerpoint"
+  targetNamespace="urn:schemas-microsoft-com:office:powerpoint" elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+  <xsd:element name="iscomment" type="CT_Empty"/>
+  <xsd:element name="textdata" type="CT_Rel"/>
+  <xsd:complexType name="CT_Empty"/>
+  <xsd:complexType name="CT_Rel">
+    <xsd:attribute name="id" type="xsd:string"/>
+  </xsd:complexType>
+</xsd:schema>

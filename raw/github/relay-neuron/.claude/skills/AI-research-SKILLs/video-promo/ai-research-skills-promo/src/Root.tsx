@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40d050a8313a53c300091129b310502aec1ecc9c594ac4b2774e480737952c27
-size 408
+import { Composition } from "remotion";
+import { AIResearchSkillsPromo } from "./AIResearchSkillsPromo";
+
+export const RemotionRoot: React.FC = () => {
+  return (
+    <>
+      <Composition
+        id="AIResearchSkillsPromo"
+        component={AIResearchSkillsPromo}
+        durationInFrames={465} // ~15.5 seconds at 30fps
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+    </>
+  );
+};

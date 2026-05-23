@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:842e7163409c8d74f4d7088a8bc99500d80bc75332681a0980055b08f374a604
-size 600
+ <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:w12="http://schemas.openxmlformats.org/wordprocessingml/2006/main" elementFormDefault="qualified" attributeFormDefault="qualified" blockDefault="#all" xmlns="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" targetNamespace="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash">
+   <xsd:import id="w12" namespace="http://schemas.openxmlformats.org/wordprocessingml/2006/main" schemaLocation="../ISO-IEC29500-4_2016/wml.xsd"/>
+   <xsd:attribute name="storeItemChecksum" type="w12:ST_String"/>
+ </xsd:schema>

@@ -1,0 +1,63 @@
+# 转接神经元 - 研究任务清单
+
+**创建日期**: 2026-05-12
+**总计**: 20个研究主题 × 2个方向 = 40个文件
+
+---
+
+## 新领域探索 (Emerging Research)
+
+- [x] **1.1 环境与运动-高海拔/低氧训练** (benefits + risks)
+- [ ] **1.2 女性运动生理-月经周期激素波动** (benefits + risks)
+- [ ] **1.3 女性运动生理-更年期骨健康** (benefits + risks)
+- [ ] **1.4 运动损伤心理-损伤恐惧重返赛场** (benefits + risks)
+- [ ] **1.5 冥想训练对比赛专注力** (benefits + risks)
+
+## 补充剂专项 (Supplement Science)
+
+- [ ] **2.1 HMB深入机制与老年人肌少症** (benefits + risks)
+- [ ] **2.2 β-丙氨酸与肌肽在爆发力项目中的效果** (benefits + risks)
+- [ ] **2.3 左旋肉碱与脂肪代谢** (benefits + risks)
+- [ ] **2.4 谷氨酰胺与免疫功能** (benefits + risks)
+- [ ] **2.5 支链氨基酸（BCAA）科学评价** (benefits + risks)
+
+## 既有领域深挖 (In-Depth Existing Topics)
+
+- [ ] **3.1 mTOR通路深度机制与氨基酸感知** (benefits + risks)
+- [ ] **3.2 周期化训练模型深度对比（DUP/线性/波型）** (benefits + risks)
+- [ ] **3.3 肌肉共振频率与振动训练** (benefits + risks)
+- [ ] **3.4 运动后72小时蛋白质合成窗口** (benefits + risks)
+- [ ] **3.5 神经肌肉电刺激（NMES）最佳参数** (benefits + risks)
+
+## 运动专项研究 (Sport-Specific Research)
+
+- [ ] **4.1 CrossFit生理适应与损伤率** (benefits + risks)
+- [ ] **4.2 力量举三大项（深蹲/硬拉/卧推）生物力学** (benefits + risks)
+- [ ] **4.3 拳击/格斗运动有氧与无氧系统** (benefits + risks)
+- [ ] **4.4 游泳项目肩部损伤预防与水感训练** (benefits + risks)
+- [ ] **4.5 耐力运动（马拉松/铁三）减脂与保持肌肉** (benefits + risks)
+
+---
+
+## 文件命名规范
+
+```
+research/2026-05-13-task-X-X-TOPIC-brief-description-benefits.md
+research/2026-05-13-task-X-X-TOPIC-brief-description-risks.md
+```
+
+## 质量标准
+
+每个文件必须满足：
+1. **3-5篇命名研究**，完整引用（作者、年份、期刊、DOI）
+2. **每篇1000+字**，B-M-R-I结构（背景/方法/结果/解读）
+3. **每项结论引用**，格式 `([Author, Year](DOI))`
+4. **具体数据**，样本量/效应量/p值
+5. **总字数3000+**
+
+## 补充文件
+
+评审后如需补充，创建：
+```
+research/2026-05-13-task-X-X-TOPIC-SUPPLEMENT.md
+```

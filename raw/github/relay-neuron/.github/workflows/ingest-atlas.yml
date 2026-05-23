@@ -1,0 +1,38 @@
+name: Ingest into Atlas Wiki
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'README.md'
+      - 'CLAUDE.md'
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout relay-neuron (source)
+        uses: actions/checkout@v4
+        with:
+          path: relay-src
+
+      - name: Checkout atlas (wiki)
+        uses: actions/checkout@v4
+        with:
+          repository: Sphinxes0o0/atlas
+          token: ${{ secrets.WIKI_PUSH_TOKEN }}
+          path: atlas
+
+      - name: Sync raw sources
+        run: |
+          rsync -av --delete relay-src/research/ atlas/raw/github/relay-neuron/research/ || true
+
+      - name: Ingest (Copilot → MiniMax fallback)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MINIMAX_CN_API_KEY: ${{ secrets.MINIMAX_CN_API_KEY }}
+        run: |
+          cd atlas
+          python3 scripts/ingest_wiki.py . github/relay-neuron

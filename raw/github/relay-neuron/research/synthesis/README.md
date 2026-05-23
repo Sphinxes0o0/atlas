@@ -1,0 +1,32 @@
+# 综合分析 (Synthesis)
+
+[research](../README.md) / **synthesis**
+
+## 📄 研究文档
+
+- 📄 [2026-04-12-initial-research](./2026-04-12-initial-research.md)
+- 📄 [2026-04-12-initial-running-research](./2026-04-12-initial-running-research.md)
+- 📄 [2026-04-12-research-round-2](./2026-04-12-research-round-2.md)
+- 📄 [2026-04-15-research-round-4](./2026-04-15-research-round-4.md)
+- 📄 [2026-04-16-research-round-10](./2026-04-16-research-round-10.md)
+- 📄 [2026-04-16-research-round-11](./2026-04-16-research-round-11.md)
+- 📄 [2026-04-16-research-round-12](./2026-04-16-research-round-12.md)
+- 📄 [2026-04-16-research-round-13](./2026-04-16-research-round-13.md)
+- 📄 [2026-04-16-research-round-14](./2026-04-16-research-round-14.md)
+- 📄 [2026-04-16-research-round-15](./2026-04-16-research-round-15.md)
+- 📄 [2026-04-16-research-round-16](./2026-04-16-research-round-16.md)
+- 📄 [2026-04-16-research-round-3](./2026-04-16-research-round-3.md)
+- 📄 [2026-04-16-research-round-5](./2026-04-16-research-round-5.md)
+- 📄 [2026-04-16-research-round-6](./2026-04-16-research-round-6.md)
+- 📄 [2026-04-16-research-round-7](./2026-04-16-research-round-7.md)
+- 📄 [2026-04-16-research-round-8](./2026-04-16-research-round-8.md)
+- 📄 [2026-04-16-research-round-9](./2026-04-16-research-round-9.md)
+- 📄 [2026-04-16-research-synthesis](./2026-04-16-research-synthesis.md)
+- 📄 [2026-04-21-research-round-17](./2026-04-21-research-round-17.md)
+- 📄 [2026-04-21-research-round-18](./2026-04-21-research-round-18.md)
+- 📄 [2026-04-21-research-round-19](./2026-04-21-research-round-19.md)
+- 📄 [2026-04-24-research-round-20](./2026-04-24-research-round-20.md)
+- 📄 [2026-04-25-research-round-21-supplement](./2026-04-25-research-round-21-supplement.md)
+- 📄 [2026-04-25-research-round-21](./2026-04-25-research-round-21.md)
+- 📄 [2026-04-25-research-round-22](./2026-04-25-research-round-22.md)
+- 📄 [2026-04-30-research-round-23](./2026-04-30-research-round-23.md)

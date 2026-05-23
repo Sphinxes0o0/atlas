@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fe10b9980a5493c9bbec8c20630c603eaa475b45403751c08f26738736647b8
-size 268
+import sys
+from pypdf import PdfReader
+
+
+
+
+reader = PdfReader(sys.argv[1])
+if (reader.get_fields()):
+    print("This PDF has fillable form fields")
+else:
+    print("This PDF does not have fillable form fields; you will need to visually determine where to enter data")
