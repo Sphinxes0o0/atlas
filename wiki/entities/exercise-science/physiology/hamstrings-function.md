@@ -15,9 +15,9 @@ The hamstrings are a group of three muscles located on the posterior thigh, func
 
 | Muscle | Innervation | Primary Actions |
 |--------|-------------|----------------|
-| [[entities/exercise-science/physiology/biceps-femoris]] (long & short head) | Sciatic nerve (tibial division) | Hip extension, knee flexion, lateral rotation |
-| [[entities/exercise-science/physiology/semimembranosus]] | Sciatic nerve (tibial division) | Hip extension, knee flexion, medial rotation |
-| [[entities/exercise-science/physiology/semitendinosus]] | Sciatic nerve (tibial division) | Hip extension, knee flexion, medial rotation |
+| [[entities/exercise-science/physiology/hamstrings-function]] (long & short head) | Sciatic nerve (tibial division) | Hip extension, knee flexion, lateral rotation |
+| [[entities/exercise-science/physiology/hamstrings-function]] | Sciatic nerve (tibial division) | Hip extension, knee flexion, medial rotation |
+| [[entities/exercise-science/physiology/hamstrings-function]] | Sciatic nerve (tibial division) | Hip extension, knee flexion, medial rotation |
 
 ## Architecture & Function
 

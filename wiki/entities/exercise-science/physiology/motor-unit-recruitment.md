@@ -27,7 +27,7 @@ sources: [relay-neuron-physiology]
 | 同步化↑ | 瞬间力量↑ | 4-8 周 |
 | 皮层脊髓兴奋性↑ | 随意控制改善 | 持续 |
 
-详见: [[entities/exercise-science/physiology/neural-drive]]
+详见: [[entities/exercise-science/physiology/fatigue-recovery]]
 
 ## Resistance Training
 

@@ -88,4 +88,4 @@ SSC 是肌肉先离心拉伸后快速向心收缩的模式：
 - [[entities/exercise-science/physiology/muscle-hypertrophy]] — II 型肌纤维肥大是功率训练目标
 - [[entities/exercise-science/physiology/post-activation-potenti]] — PAP 是功率训练的重要工具
 - [[entities/exercise-science/physiology/strength-training]] — 基础力量是功率训练的前提
-- [[entities/exercise-science/running/sprint-training]] — 冲刺训练提高 II 型纤维激活率
+- [[entities/exercise-science/training/training-methods]] — 冲刺训练提高 II 型纤维激活率

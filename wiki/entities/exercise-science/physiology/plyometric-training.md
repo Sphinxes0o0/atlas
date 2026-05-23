@@ -25,7 +25,7 @@ sources: [relay-neuron-training-methods]
 - 触地时间 < 0.2 秒的增强式训练效果最佳
 - 离心阶段能量储存效率决定最终输出
 
-详见: [[entities/exercise-science/biomechanics/running-biomechanics]]
+详见: [[entities/exercise-science/biomechanics/running-injury-biomechanics]]
 
 ## Post-Activation Potentiation (PAP)
 
@@ -47,4 +47,4 @@ sources: [relay-neuron-training-methods]
 
 - [[entities/exercise-science/physiology/post-activation-potenti]]
 - [[entities/exercise-science/physiology/power-training]]
-- [[entities/exercise-science/biomechanics/running-biomechanics]]
+- [[entities/exercise-science/biomechanics/running-injury-biomechanics]]

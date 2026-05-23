@@ -62,10 +62,10 @@ sources: [relay-neuron-training-methods]
 
 ## 相关概念
 
-- [[RPE]] - 自感用力程度
-- [[Heart rate variability]] - 心率变异性
-- [[Training load]] - 训练负荷
-- [[Overtraining]] - 过度训练
+- [[entities/exercise-science/physiology/rpe]] - 自感用力程度
+- [[entities/exercise-science/physiology/heart-rate-variability]] - 心率变异性
+- [[entities/exercise-science/physiology/training-frequency]] - 训练负荷
+- [[entities/exercise-science/physiology/overtraining-syndrome]] - 过度训练
 
 ## 参考文献
 

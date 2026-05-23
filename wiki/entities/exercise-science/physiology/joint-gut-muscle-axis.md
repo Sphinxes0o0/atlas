@@ -105,6 +105,6 @@ Omega-3 (EPA/DHA) → 膜磷脂整合 → 促炎症介质转换
 
 - [[entities/exercise-science/physiology/gut-muscle-axis]] — 肠道肌肉轴的 SCFA 机制
 - [[entities/exercise-science/nutrition/gut-microbiome-sports]] — 运动员肠道菌群支持
-- [[entities/exercise-science/supplements/omega3]] — Omega-3 抗炎机制
-- [[entities/exercise-science/supplements/curcumin]] — 姜黄素 NF-κB 抑制机制
+- [[entities/exercise-science/nutrition/omega3]] — Omega-3 抗炎机制
+- [[entities/exercise-science/supplements/curcumin/curcumin-overview]] — 姜黄素 NF-κB 抑制机制
 - [[entities/exercise-science/physiology/recovery-science]] — 恢复期综合方案

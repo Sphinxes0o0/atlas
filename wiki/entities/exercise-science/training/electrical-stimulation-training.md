@@ -49,10 +49,10 @@ sources: [relay-neuron-training-methods]
 
 ## 相关概念
 
-- [[Motor unit recruitment]] - 运动单位募集
-- [[Muscle activation]] - 肌肉激活
-- [[Rehabilitation]] - 康复
-- [[Recovery]] - 恢复
+- [[entities/exercise-science/physiology/motor-unit-recruitment]] - 运动单位募集
+- [[entities/exercise-science/physiology/muscle-activation]] - 肌肉激活
+- [[entities/exercise-science/physiology/rehabilitation-exercise]] - 康复
+- [[entities/exercise-science/physiology/fatigue-recovery]] - 恢复
 
 ## 参考文献
 

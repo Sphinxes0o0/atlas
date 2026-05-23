@@ -17,24 +17,24 @@ The back musculature comprises multiple layers of muscles extending from the sku
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/trapezius-upper]] | Accessory nerve (CN XI) | Scapular elevation, cervical extension |
-| [[entities/exercise-science/physiology/trapezius-middle]] | Accessory nerve (CN XI) | Scapular retraction (adduction) |
-| [[entities/exercise-science/physiology/trapezius-lower]] | Accessory nerve (CN XI) | Scapular depression, upward rotation |
-| [[entities/exercise-science/physiology/latissimus-dorsi]] | Thoracodorsal nerve | Shoulder extension, adduction, internal rotation |
+| [[entities/exercise-science/physiology/back-muscles]] | Accessory nerve (CN XI) | Scapular elevation, cervical extension |
+| [[entities/exercise-science/physiology/back-muscles]] | Accessory nerve (CN XI) | Scapular retraction (adduction) |
+| [[entities/exercise-science/physiology/back-muscles]] | Accessory nerve (CN XI) | Scapular depression, upward rotation |
+| [[entities/exercise-science/physiology/back-muscles]] | Thoracodorsal nerve | Shoulder extension, adduction, internal rotation |
 
 ### Intermediate Layer
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/serratus-anterior]] | Long thoracic nerve | Scapular protraction, upward rotation |
-| [[entities/exercise-science/physiology/rhomboid-function]] | Dorsal scapular nerve | Scapular retraction, elevation |
+| [[entities/exercise-science/physiology/back-muscles]] | Long thoracic nerve | Scapular protraction, upward rotation |
+| [[entities/exercise-science/physiology/back-muscles]] | Dorsal scapular nerve | Scapular retraction, elevation |
 
 ### Deep Layer (Intrinsic)
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/erector-spinae]] | Segmental dorsal rami | Spinal extension, lateral flexion |
-| [[entities/exercise-science/physiology/levator-scapulae]] | C3-C5, dorsal scapular | Scapular elevation, downward rotation |
+| [[entities/exercise-science/physiology/back-muscles]] | Segmental dorsal rami | Spinal extension, lateral flexion |
+| [[entities/exercise-science/physiology/back-muscles]] | C3-C5, dorsal scapular | Scapular elevation, downward rotation |
 
 ## Scapular Kinematics
 

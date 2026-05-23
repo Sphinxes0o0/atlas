@@ -79,5 +79,5 @@ sources: [relay-neuron-physiology]
 
 - [[entities/exercise-science/physiology/strength-training]] — 力量训练是骨骼健康的核心
 - [[entities/exercise-science/health/aging-sarcopenia]] — 老年人肌肉与骨骼共同衰退
-- [[entities/exercise-science/running/running-injury-biomechanics]] — 跑步对下肢骨骼的机械负荷
+- [[entities/exercise-science/biomechanics/running-injury-biomechanics]] — 跑步对下肢骨骼的机械负荷
 - [[entities/exercise-science/supplements/calcium]] — 钙是骨矿化的核心营养素

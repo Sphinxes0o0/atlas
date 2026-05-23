@@ -15,9 +15,9 @@ The gluteal muscle group consists of three muscles (gluteus maximus, medius, and
 
 | Muscle | Innervation | Primary Actions |
 |--------|-------------|----------------|
-| [[entities/exercise-science/physiology/gluteus-maximus]] | Inferior gluteal nerve (L5-S2) | Hip extension, external rotation, adduction |
-| [[entities/exercise-science/physiology/gluteus-medius]] | Superior gluteal nerve | Hip abduction, medial rotation of femur |
-| [[entities/exercise-science/physiology/gluteus-minimus]] | Superior gluteal nerve | Hip abduction, medial rotation (assist) |
+| [[entities/exercise-science/physiology/gluteal-muscles]] | Inferior gluteal nerve (L5-S2) | Hip extension, external rotation, adduction |
+| [[entities/exercise-science/physiology/gluteal-muscles]] | Superior gluteal nerve | Hip abduction, medial rotation of femur |
+| [[entities/exercise-science/physiology/gluteal-muscles]] | Superior gluteal nerve | Hip abduction, medial rotation (assist) |
 
 ## Architecture & Function
 

@@ -49,10 +49,10 @@ BFR通过在肢体近端施加适度压力限制静脉回流，同时保持动�
 
 ## 相关概念
 
-- [[Muscle hypertrophy]] - 肌肉肥大
-- [[Growth hormone]] - 生长激素
-- [[Resistance training]] - 抗阻训练
-- [[Rehabilitation]] - 康复
+- [[entities/exercise-science/physiology/muscle-hypertrophy]] - 肌肉肥大
+- [[entities/exercise-science/physiology/growth-hormone]] - 生长激素
+- [[entities/exercise-science/physiology/resistance-training]] - 抗阻训练
+- [[entities/exercise-science/physiology/rehabilitation-exercise]] - 康复
 
 ## 参考文献
 

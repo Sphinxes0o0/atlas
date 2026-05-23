@@ -17,14 +17,14 @@ The shoulder complex (glenohumeral joint) is the most mobile joint in the body, 
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/pectoralis-major]] | Medial/lateral pectoral nerves | Shoulder adduction, horizontal adduction, flexion |
-| [[entities/exercise-science/physiology/deltoid-function]] | Axillary nerve (anterior/middle/posterior heads) | Shoulder abduction, flexion, extension |
+| [[entities/exercise-science/physiology/shoulder-muscles]] | Medial/lateral pectoral nerves | Shoulder adduction, horizontal adduction, flexion |
+| [[entities/exercise-science/physiology/shoulder-muscles]] | Axillary nerve (anterior/middle/posterior heads) | Shoulder abduction, flexion, extension |
 
 ### Dynamic Stabilizers
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/rotator-cuff]] | Suprascapular, subscapular, axillary nerves | Glenohumeral compression, rotation |
+| [[entities/exercise-science/physiology/shoulder-muscles]] | Suprascapular, subscapular, axillary nerves | Glenohumeral compression, rotation |
 
 ## Deltoid Architecture
 

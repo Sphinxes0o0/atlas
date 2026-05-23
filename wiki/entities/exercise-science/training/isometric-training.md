@@ -40,10 +40,10 @@ sources: [relay-neuron-training-methods]
 
 ## 相关概念
 
-- [[Eccentric training]] - 离心训练
-- [[Core training]] - 核心训练
-- [[Proprioception]] - 本体感觉
-- [[Tendon stiffness]] - 肌腱刚度
+- [[entities/exercise-science/training/eccentric-overload-training]] - 离心训练
+- [[entities/exercise-science/physiology/core-muscles]] - 核心训练
+- [[entities/exercise-science/physiology/proprioception]] - 本体感觉
+- [[entities/exercise-science/training/tapering]] - 肌腱刚度
 
 ## 参考文献
 

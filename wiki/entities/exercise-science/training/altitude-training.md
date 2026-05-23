@@ -40,10 +40,10 @@ sources: [relay-neuron-training-methods]
 
 ## 相关概念
 
-- [[VO2max]] - 有氧能力指标
-- [[Erythropoiesis]] - 红细胞生成
-- [[Blood doping]] - 血液兴奋剂（对比）
-- [[ Endurance training]] - 耐力训练
+- [[entities/exercise-science/physiology/vo2max]] - 有氧能力指标
+- [[entities/exercise-science/training/altitude-training]] - 红细胞生成
+- [[entities/exercise-science/training/altitude-training]] - 血液兴奋剂（对比）
+- [[entities/exercise-science/physiology/vo2max]] - 耐力训练
 
 ## 参考文献
 

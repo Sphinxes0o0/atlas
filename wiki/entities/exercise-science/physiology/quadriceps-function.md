@@ -15,10 +15,10 @@ The quadriceps femoris is the largest muscle group in the human body, consisting
 
 | Muscle | Innervation | Primary Actions |
 |--------|-------------|----------------|
-| [[entities/exercise-science/physiology/rectus-femoris]] | Femoral nerve (L2-L4) | Hip flexion + knee extension (biarticular) |
-| [[entities/exercise-science/physiology/vastus-lateralis]] | Femoral nerve | Knee extension (largest Q angle contribution) |
-| [[entities/exercise-science/physiology/vastus-medialis]] | Femoral nerve | Knee extension (VMO controls patellar tracking) |
-| [[entities/exercise-science/physiology/vastus-intermedius]] | Femoral nerve | Knee extension (deepest portion) |
+| [[entities/exercise-science/physiology/quadriceps-function]] | Femoral nerve (L2-L4) | Hip flexion + knee extension (biarticular) |
+| [[entities/exercise-science/physiology/quadriceps-function]] | Femoral nerve | Knee extension (largest Q angle contribution) |
+| [[entities/exercise-science/physiology/quadriceps-function]] | Femoral nerve | Knee extension (VMO controls patellar tracking) |
+| [[entities/exercise-science/physiology/quadriceps-function]] | Femoral nerve | Knee extension (deepest portion) |
 
 ## Architecture & Function
 

@@ -17,16 +17,16 @@ The core musculature encompasses muscles of the trunk that transmit force betwee
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/transversus-abdominis]] | Intercostal, iliohypogastric, ilioinguinal | Horizontal abdominal compression, spinal stabilization |
-| [[entities/exercise-science/physiology/deep-core-muscles]] | Segmental spinal nerves | Segmental spinal control, intervertebral stability |
+| [[entities/exercise-science/physiology/core-muscles]] | Intercostal, iliohypogastric, ilioinguinal | Horizontal abdominal compression, spinal stabilization |
+| [[entities/exercise-science/physiology/core-muscles]] | Segmental spinal nerves | Segmental spinal control, intervertebral stability |
 
 ### Superficial Core / Global Stabilizers
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/abdominal-muscles]] (rectus abdominis) | Intercostals T5-T12 | Trunk flexion, compression |
-| [[entities/exercise-science/physiology/external-oblique]] | Intercostals T5-T12 | Rotation, lateral flexion |
-| [[entities/exercise-science/physiology/internal-oblique]] | Intercostals T5-L1 | Trunk rotation (opposite to external), compression |
+| [[entities/exercise-science/physiology/core-muscles]] (rectus abdominis) | Intercostals T5-T12 | Trunk flexion, compression |
+| [[entities/exercise-science/physiology/core-muscles]] | Intercostals T5-T12 | Rotation, lateral flexion |
+| [[entities/exercise-science/physiology/core-muscles]] | Intercostals T5-L1 | Trunk rotation (opposite to external), compression |
 
 ## Deep Core System
 

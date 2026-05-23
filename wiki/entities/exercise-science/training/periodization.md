@@ -96,11 +96,11 @@ sources: [relay-neuron-physiology, relay-neuron-training-methods]
 
 ## 相关概念
 
-- [[Tapering]] — 减量训练
-- [[VO2max]] — 有氧耐力
-- [[Lactate threshold]] — 乳酸阈值
-- [[Training autoregulation]] — 训练自动调节
-- [[Concurrent training]] — 同期训练
+- [[entities/exercise-science/training/tapering]] — 减量训练
+- [[entities/exercise-science/physiology/vo2max]] — 有氧耐力
+- [[entities/exercise-science/physiology/lactate-threshold]] — 乳酸阈值
+- [[entities/exercise-science/training/training-autoregulation]] — 训练自动调节
+- [[entities/exercise-science/physiology/concurrent-training]] — 同期训练
 
 ## 参考文献
 

@@ -17,9 +17,9 @@ The arm musculature primarily crosses the elbow joint, with secondary functions 
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/biceps-triceps]] | Musculocutaneous nerve | Elbow flexion, forearm supination, shoulder flexion |
-| [[entities/exercise-science/physiology/brachialis]] | Musculocutaneous nerve | Pure elbow flexion (50% of flexion force) |
-| [[entities/exercise-science/physiology/forearm-muscles]] | Median and radial nerves | Wrist flexion/extension, finger control, grip |
+| [[entities/exercise-science/physiology/arm-muscles]] | Musculocutaneous nerve | Elbow flexion, forearm supination, shoulder flexion |
+| [[entities/exercise-science/physiology/arm-muscles]] | Musculocutaneous nerve | Pure elbow flexion (50% of flexion force) |
+| [[entities/exercise-science/physiology/arm-muscles]] | Median and radial nerves | Wrist flexion/extension, finger control, grip |
 
 ### Elbow Extensors
 

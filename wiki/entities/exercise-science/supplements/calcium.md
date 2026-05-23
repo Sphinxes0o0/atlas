@@ -47,4 +47,4 @@ sources: [relay-neuron-supplements]
 ## Related
 
 - [[entities/exercise-science/physiology/bone-health-exercise]]
-- [[entities/exercise-science/supplements/vitamin-d]] (联合补充)
+- [[entities/exercise-science/supplements/calcium]] (联合补充)

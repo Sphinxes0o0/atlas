@@ -17,32 +17,32 @@ The lower leg musculature powers plantarflexion and dorsiflexion, controls tibia
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/calf-muscles]] (gastrocnemius) | Tibial nerve | Plantarflexion (bipennate, 2 joints), propulsive power |
-| [[entities/exercise-science/physiology/soleus-function]] | Tibial nerve | Plantarflexion (unipennate, 1 joint), postural endurance |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] (gastrocnemius) | Tibial nerve | Plantarflexion (bipennate, 2 joints), propulsive power |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | Tibial nerve | Plantarflexion (unipennate, 1 joint), postural endurance |
 
 ### Deep Posterior Compartment
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/deep-calf-muscles]] (tibialis posterior, flexor digitorum longus, flexor hallucis longus) | Tibial nerve | Plantarflexion, arch support, toe control |
-| [[entities/exercise-science/physiology/tibialis-anterior]] | Deep peroneal nerve | Dorsiflexion, tibial deceleration |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] (tibialis posterior, flexor digitorum longus, flexor hallucis longus) | Tibial nerve | Plantarflexion, arch support, toe control |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | Deep peroneal nerve | Dorsiflexion, tibial deceleration |
 
 ### Lateral Compartment
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/peroneal-muscles]] (longus & brevis) | Superficial peroneal nerve | Eversion, lateral ankle stability |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] (longus & brevis) | Superficial peroneal nerve | Eversion, lateral ankle stability |
 
 ### Anterior/Lateral Hip (Integrated)
 
 | Muscle | Innervation | Primary Function |
 |--------|-------------|------------------|
-| [[entities/exercise-science/physiology/iliopsoas]] | L1-L3 ventral rami | Primary hip flexor; trunk-hip integration |
-| [[entities/exercise-science/physiology/tensor-fasciae-latae]] | Superior gluteal nerve | Hip abduction, medial rotation, IT-band tension |
-| [[entities/exercise-science/physiology/adductor-group]] | Obturator nerve | Hip adduction, flexion/extension contribution |
-| [[entities/exercise-science/physiology/adductor-magnus]] | Obturator + tibial | Hip adduction, dual hamstring/quadriceps function |
-| [[entities/exercise-science/physiology/hip-deep-rotators]] | L4-S2 ventral rami | Lateral hip rotation, femoral head stabilization |
-| [[entities/exercise-science/physiology/piriformis]] | L5-S2 ventral rami | Lateral hip rotation; sciatic nerve proximity |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | L1-L3 ventral rami | Primary hip flexor; trunk-hip integration |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | Superior gluteal nerve | Hip abduction, medial rotation, IT-band tension |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | Obturator nerve | Hip adduction, flexion/extension contribution |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | Obturator + tibial | Hip adduction, dual hamstring/quadriceps function |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | L4-S2 ventral rami | Lateral hip rotation, femoral head stabilization |
+| [[entities/exercise-science/physiology/lower-leg-muscles]] | L5-S2 ventral rami | Lateral hip rotation; sciatic nerve proximity |
 
 ## Calf Muscle Architecture
 

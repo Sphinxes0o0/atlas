@@ -46,10 +46,10 @@ sources: [relay-neuron-training-methods]
 
 ## 相关概念
 
-- [[Periodization]] - 周期化
-- [[Motor skill development]] - 运动技能发展
-- [[Puberty]] - 青春期
-- [[Long-term athlete development]] - 长期运动员发展
+- [[entities/exercise-science/training/periodization]] - 周期化
+- [[entities/exercise-science/training/youth-training]] - 运动技能发展
+- [[entities/exercise-science/population/youth-runners]] - 青春期
+- [[entities/exercise-science/training/youth-training]] - 长期运动员发展
 
 ## 参考文献
 

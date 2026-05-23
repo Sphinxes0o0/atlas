@@ -83,5 +83,5 @@ Obesity is a chronic metabolic disease characterized by excess adiposity, system
 - [[entities/exercise-science/physiology/hiit-training]] — HIIT for metabolic health
 - [[entities/exercise-science/physiology/muscle-hypertrophy]] — Muscle mass and metabolism
 - [[entities/exercise-science/physiology/vo2max]] — Cardiorespiratory fitness
-- [[entities/exercise-science/physiology/metabolic-syndrome]] — Metabolic health integration
+- [[entities/exercise-science/obesity/obesity-metabolic]] — Metabolic health integration
 - [[nutrition-index]] — Dietary considerations for fat loss

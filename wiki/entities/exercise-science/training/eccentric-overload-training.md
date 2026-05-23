@@ -53,10 +53,10 @@ sources: [relay-neuron-training-methods]
 
 ## 相关概念
 
-- [[Muscle hypertrophy]] - 肌肉肥大
-- [[Flywheel training]] - 飞轮训练
-- [[DOMS]] - 延迟性肌肉酸痛
-- [[Downhill running]] - 下坡跑
+- [[entities/exercise-science/physiology/muscle-hypertrophy]] - 肌肉肥大
+- [[entities/exercise-science/training/eccentric-overload-training]] - 飞轮训练
+- [[entities/exercise-science/physiology/doms]] - 延迟性肌肉酸痛
+- [[entities/exercise-science/running/trail-running]] - 下坡跑
 
 ## 参考文献
 

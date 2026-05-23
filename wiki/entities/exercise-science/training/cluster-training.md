@@ -51,10 +51,10 @@ Cluster训练（间休训练）将传统多重复组划分为多个微组，微�
 
 ## 相关概念
 
-- [[Plyometric training]] - 增强式训练
-- [[Post-activation potentiation]] - 后激活增强效应
-- [[Power output]] - 功率输出
-- [[Motor unit recruitment]] - 运动单位募集
+- [[entities/exercise-science/physiology/plyometric-training]] - 增强式训练
+- [[entities/exercise-science/physiology/post-activation-potenti]] - 后激活增强效应
+- [[entities/exercise-science/physiology/power-training]] - 功率输出
+- [[entities/exercise-science/physiology/motor-unit-recruitment]] - 运动单位募集
 
 ## 参考文献
 
