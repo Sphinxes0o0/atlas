@@ -75,15 +75,15 @@ created: 2026-05-20
 
 | Subtopic | Core Focus | Entity |
 |---------|-----------|--------|
-| [[蛋白质摄入时机]] | Anabolic window, leucine threshold, pre-sleep protein | [[entities/exercise-science/physiology/protein-timing]] |
-| [[过度训练]] | Overtraining syndrome, ACWR, HRV monitoring | [[entities/exercise-science/physiology/overtraining-syndrome]] |
-| [[恢复科学]] | Active recovery, compression garments, cold water immersion, sleep optimization | — (covered by fatigue-recovery) |
-| [[骨健康]] | Bone density, impact training, osteoporosis prevention | [[entities/exercise-science/physiology/bone-health-exercise]] |
-| [[功率训练]] | RFD, force-velocity curve, plyometrics, Olympic lifts | [[entities/exercise-science/physiology/power-training]] |
-| [[肠道肌肉轴]] | Gut microbiota, SCFA, probiotics, gut-muscle axis | [[entities/exercise-science/physiology/gut-muscle-axis]] |
-| [[关节肠道肌肉轴]] | Joint-gut-muscle axis, glucosamine, MSM, Omega-3 | [[entities/exercise-science/physiology/joint-gut-muscle-axis]] |
-| [[HIIT训练]] | HIIT cardiovascular/metabolic adaptations, EPOC | [[entities/exercise-science/physiology/hiit-training]] |
-| [[HIITvsMICT]] | HIIT vs MICT comparison, VO2max, insulin sensitivity | [[entities/exercise-science/physiology/hiitvsmict]] |
+| 蛋白质摄入时机 | Anabolic window, leucine threshold, pre-sleep protein | [[entities/exercise-science/physiology/protein-timing]] |
+| 过度训练 | Overtraining syndrome, ACWR, HRV monitoring | [[entities/exercise-science/physiology/overtraining-syndrome]] |
+| 恢复科学 | Active recovery, compression garments, cold water immersion, sleep optimization | — (covered by fatigue-recovery) |
+| 骨健康 | Bone density, impact training, osteoporosis prevention | [[entities/exercise-science/physiology/bone-health-exercise]] |
+| 功率训练 | RFD, force-velocity curve, plyometrics, Olympic lifts | [[entities/exercise-science/physiology/power-training]] |
+| 肠道肌肉轴 | Gut microbiota, SCFA, probiotics, gut-muscle axis | [[entities/exercise-science/physiology/gut-muscle-axis]] |
+| 关节肠道肌肉轴 | Joint-gut-muscle axis, glucosamine, MSM, Omega-3 | [[entities/exercise-science/physiology/joint-gut-muscle-axis]] |
+| HIIT训练 | HIIT cardiovascular/metabolic adaptations, EPOC | [[entities/exercise-science/physiology/hiit-training]] |
+| HIITvsMICT | HIIT vs MICT comparison, VO2max, insulin sensitivity | [[entities/exercise-science/physiology/hiitvsmict]] |
 | [[PAP]] | Post-activation potentiation, complex training, warm-up | [[entities/exercise-science/physiology/post-activation-potenti]] |
 
 ## Key Findings (Updated 2026-05)
