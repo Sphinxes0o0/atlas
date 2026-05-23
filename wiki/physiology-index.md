@@ -32,6 +32,16 @@ created: 2026-05-22
 | [[entities/exercise-science/physiology/hiitvsmict]] | HIIT vs MICT: comparative effects, time efficiency, adherence | exercise-science, cardio |
 | [[entities/exercise-science/physiology/post-activation-potenti]] | PAP: complex training, warm-up, neural mechanisms, RFD | exercise-science, strength |
 | [[entities/exercise-science/physiology/muscle-function-training]] | Anatomy-function-injury: 56 muscles upper/lower/core | exercise-science, anatomy |
+| [[entities/exercise-science/physiology/resistance-training]] | External resistance training: mechanical tension, hormonal response, neural adaptations | exercise-science, strength |
+| [[entities/exercise-science/physiology/doms]] | Delayed onset muscle soreness: muscle damage, inflammation, recovery timeline | exercise-science, recovery |
+| [[entities/exercise-science/physiology/plyometric-training]] | Plyometrics: stretch-shortening cycle, reactive strength, explosive power | exercise-science, power |
+| [[entities/exercise-science/physiology/growth-hormone]] | GH: IGF-1/mTOR pathway, acute hormone response, anabolism | exercise-science, hormone |
+| [[entities/exercise-science/physiology/heart-rate-variability]] | HRV: autonomic balance, RMSSD, recovery monitoring | exercise-science, monitoring |
+| [[entities/exercise-science/physiology/rpe]] | RPE: Borg scale, perceived exertion, autoregulation | exercise-science, monitoring |
+| [[entities/exercise-science/physiology/proprioception]] | Proprioception: muscle spindle, GTO, joint receptors, balance | exercise-science, neuromuscular |
+| [[entities/exercise-science/physiology/motor-unit-recruitment]] | Motor unit recruitment: size principle, neural drive, firing rate | exercise-science, neuromuscular |
+| [[entities/exercise-science/physiology/muscle-activation]] | Muscle activation: EMG, motor unit firing, coordination patterns | exercise-science, neuromuscular |
+| [[entities/exercise-science/physiology/rehabilitation-exercise]] | Rehabilitation: injury recovery, staged progression, return to sport | exercise-science, clinical |
 
 ## Cross-References
 

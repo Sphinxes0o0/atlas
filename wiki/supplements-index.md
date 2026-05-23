@@ -45,6 +45,7 @@ created: 2026-05-22
 | Ashwagandha | Adaptogens and exercise performance | Moderate |
 | Vitamin B12 | Energy metabolism | Moderate |
 | Protein powder types | Protein type comparison | Strong |
+| [[entities/exercise-science/supplements/calcium]] | Calcium: bone health, muscle function, supplement forms | Strong |
 
 ## Cross-References
 

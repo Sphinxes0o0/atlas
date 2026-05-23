@@ -84,7 +84,7 @@ created: 2026-05-20
 | 关节肠道肌肉轴 | Joint-gut-muscle axis, glucosamine, MSM, Omega-3 | [[entities/exercise-science/physiology/joint-gut-muscle-axis]] |
 | HIIT训练 | HIIT cardiovascular/metabolic adaptations, EPOC | [[entities/exercise-science/physiology/hiit-training]] |
 | HIITvsMICT | HIIT vs MICT comparison, VO2max, insulin sensitivity | [[entities/exercise-science/physiology/hiitvsmict]] |
-| [[PAP]] | Post-activation potentiation, complex training, warm-up | [[entities/exercise-science/physiology/post-activation-potenti]] |
+| [[entities/exercise-science/physiology/post-activation-potenti]] | Post-activation potentiation, complex training, warm-up | [[entities/exercise-science/physiology/post-activation-potenti]] |
 
 ## Key Findings (Updated 2026-05)
 

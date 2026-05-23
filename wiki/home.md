@@ -71,4 +71,4 @@ updated: 2026-05-23
 
 ## Related
 
-Tech knowledge lives at [[pyramid]] — Linux kernel, C++, networking, eBPF, tools.
+Tech knowledge lives at [pyramid](https://github.com/Sphinxes0o0/pyramid) — Linux kernel, C++, networking, eBPF, tools.
