@@ -18,8 +18,8 @@ updated: 2026-05-23
 ### Physiology & Training
 | Index | Domain | Entities |
 |-------|--------|----------|
-| [[physiology-index]] | Muscle hypertrophy, mTOR, MPS, VO2max, lactate threshold, BFR... | 10 |
-| [[training-index]] | Periodization, tapering, training methods | 3 |
+| [[physiology-index]] | Muscle hypertrophy, mTOR, MPS, VO2max, lactate threshold, BFR... | 41 |
+| [[training-index]] | Periodization, tapering, training methods | 11 |
 
 ### Running
 | Index | Domain | Entities |
@@ -31,7 +31,7 @@ updated: 2026-05-23
 | Index | Domain | Entities |
 |-------|--------|----------|
 | [[nutrition-index]] | Protein, carbs, omega-3, ketogenic diet, hydration, gut microbiome, competition nutrition | 7 |
-| [[supplements-index]] | Curcumin (7 sub-entities), CoQ10 (5 sub-entities) | 12 |
+| [[supplements-index]] | Curcumin (7 sub-entities), CoQ10 (5 sub-entities) | 13 |
 
 ### Health & Populations
 | Index | Domain | Entities |
@@ -43,7 +43,7 @@ updated: 2026-05-23
 ### Technology & Recovery
 | Index | Domain | Entities |
 |-------|--------|----------|
-| [[technology-index]] | Wearable devices, HRV monitoring, running power meters, AI/ML | 3 |
+| [[technology-index]] | Wearable devices, HRV monitoring, running power meters, AI/ML | 4 |
 | [[kinesiology-tape-index]] | Kinesiology tape: mechanism, clinical evidence, pain management | 1 |
 
 ---
