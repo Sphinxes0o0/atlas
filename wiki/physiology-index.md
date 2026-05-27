@@ -52,7 +52,11 @@ created: 2026-05-22
 | [[entities/exercise-science/physiology/proprioception]] | Proprioception: muscle spindle, GTO, joint receptors, balance | exercise-science, neuromuscular |
 | [[entities/exercise-science/physiology/motor-unit-recruitment]] | Motor unit recruitment: size principle, neural drive, firing rate | exercise-science, neuromuscular |
 | [[entities/exercise-science/physiology/muscle-activation]] | Muscle activation: EMG, motor unit firing, coordination patterns | exercise-science, neuromuscular |
+| [[entities/exercise-science/physiology/exercise-immunology]] | Exercise immunology: J-curve, open window, infection risk, immune surveillance | exercise-science, immunology |
+| [[entities/exercise-science/physiology/exercise-epigenetics]] | Exercise epigenetics: DNA methylation, telomere length, histone modifications | exercise-science, epigenetics |
 | [[entities/exercise-science/physiology/rehabilitation-exercise]] | Rehabilitation: injury recovery, staged progression, return to sport | exercise-science, clinical |
+| [[entities/exercise-science/physiology/mitochondrial-function]] | Mitochondrial adaptations: PGC-1α, ETC complexes, NAD+, mitophagy | exercise-science, metabolism |
+| [[entities/exercise-science/physiology/carotid-body]] | Carotid body: VO2max trainability, KATP channels, hypoxia, altitude | exercise-science, oxygen-sensing |
 
 ## Cross-References
 

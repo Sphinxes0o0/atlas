@@ -17,6 +17,10 @@ updated: 2026-05-23
 | [[entities/exercise-science/health/exercise-mental-health]] | Exercise & Mental Health: depression, anxiety, BDNF mechanisms | exercise-science, health |
 | [[entities/exercise-science/health/aging-sarcopenia]] | Aging & Sarcopenia: muscle loss, resistance training, protein needs for elderly | exercise-science, health |
 | [[entities/exercise-science/health/exercise-sleep]] | Exercise & Sleep Quality: circadian rhythm, sleep hygiene, timing | exercise-science, health |
+| [[entities/exercise-science/health/cardiac-exercise]] | Cardiac exercise: VO2max strongest mortality predictor, athlete's heart, cardiac rehab | exercise-science, health |
+| [[entities/exercise-science/health/cognitive-performance]] | Cognitive performance: BDNF, executive function, hippocampal neurogenesis | exercise-science, health |
+| [[entities/exercise-science/health/gi-health]] | GI health: microbiome diversity +15-30%, gut training, EIGS prevention | exercise-science, health |
+| [[entities/exercise-science/health/gut-barrier]] | Gut barrier: tight junctions, 20-40% permeability reduction, endotoxin protection | exercise-science, health |
 
 ## Cross-References
 

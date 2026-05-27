@@ -35,7 +35,7 @@ created: 2026-05-22
 | Entity | Description | Evidence |
 |--------|-------------|----------|
 | Iron | Iron and exercise performance, absorption promotion | RCT |
-| Creatine | Creatine supplementation research | Strong |
+| [[entities/exercise-science/supplements/creatine]] | Creatine: ATP-PCr system, strength/power, sarcopenia | **Strong** |
 | Melatonin | Sleep regulation research | Moderate |
 | Spirulina | Comprehensive nutrition analysis | Moderate |
 | DMAE | Cognitive focus and attention | Moderate |
@@ -46,6 +46,16 @@ created: 2026-05-22
 | Vitamin B12 | Energy metabolism | Moderate |
 | Protein powder types | Protein type comparison | Strong |
 | [[entities/exercise-science/supplements/calcium]] | Calcium: bone health, muscle function, supplement forms | Strong |
+
+## New 2026-05-27: Ingested from relay-neuron research
+
+| Entity | Description | Evidence |
+|--------|-------------|----------|
+| [[entities/exercise-science/supplements/hmb]] | HMB: anti-catabolic, sarcopenia, UPS inhibition | Moderate |
+| [[entities/exercise-science/supplements/beta-alanine]] | Beta-alanine: carnosine buffer, HIIT, paresthesia management | Strong |
+| [[entities/exercise-science/supplements/l-carnitine]] | L-carnitine: fatty acid oxidation, cardiovascular, TMAO controversy | Mixed |
+| [[entities/exercise-science/supplements/glutamine]] | Glutamine: immune support, gut barrier, post-race infection ↓60% | Moderate |
+| [[entities/exercise-science/supplements/bcaas]] | BCAAs: mTOR/leucine threshold, DOMS, CNS fatigue | Moderate |
 
 ## Cross-References
 

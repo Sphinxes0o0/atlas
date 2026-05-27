@@ -10,7 +10,7 @@ size: large
 summary: "补剂综合研究：姜黄素、辅酶Q10、铁、肌酸、褪黑素、螺旋藻、CLA、灵芝等20+补剂的2024-2026文献分析。"
 tags: [exercise-science, supplements]
 created: 2026-05-20
-updated: 2026-05-23
+updated: 2026-05-27
 ---
 
 # Relay Neuron — 补剂深度研究

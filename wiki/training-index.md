@@ -24,6 +24,8 @@ updated: 2026-05-23
 | [[entities/exercise-science/training/eccentric-overload-training]] | Eccentric overload: flywheel, downhill running | exercise-science, training |
 | [[entities/exercise-science/training/youth-training]] | Youth training: LTAD, PHV, maturity assessment | exercise-science, training |
 | [[entities/exercise-science/training/training-autoregulation]] | Training autoregulation: RPE, ACWR, self-regulation | exercise-science, training |
+| [[entities/exercise-science/training/flexibility-mobility]] | Flexibility/mobility: dynamic vs static vs PNF vs foam rolling | exercise-science, flexibility |
+| [[entities/exercise-science/training/fascia-training]] | Fascia training: force transmission, proprioception, remodeling | exercise-science, fascia |
 
 ## Cross-References
 

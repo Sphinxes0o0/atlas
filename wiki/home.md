@@ -9,7 +9,7 @@ updated: 2026-05-23
 
 > 运动科学知识库。从 pyramid 拆分而来，专注运动生理学、训练方法、跑步、营养补剂、生物力学、可穿戴技术。
 >
-> Last updated: 2026-05-23 | Total entities: ~86
+> Last updated: 2026-05-27 | Total entities: ~110
 
 ---
 

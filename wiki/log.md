@@ -193,3 +193,56 @@ Processed 133 root-level research task files (2026-05-03 to 2026-05-23) from rel
 | Index completeness errors | 0 |
 
 All pages pass lint checks. No orphan pages, no broken wikilinks, all entities registered in physiology-index.
+
+## [2026-05-27] ingest | relay-neuron supplements batch — 6 new entity pages
+
+Ingested 6 new supplement entity pages from relay-neuron research files (2026-05-03 to 2026-05-13).
+
+### Entity Pages Created (6 new)
+- `entities/exercise-science/supplements/hmb.md` — HMB: UPS inhibition (Atrogin-1/MuRF1↓), mTOR activation, sarcopenia (+0.85-1.2kg lean mass), 3g/day optimal
+- `entities/exercise-science/supplements/beta-alanine.md` — Beta-alanine: carnosine buffer system, +40-80% muscle carnosine, TEE +13-14%, paresthesia >800mg/single dose
+- `entities/exercise-science/supplements/l-carnitine.md` — L-carnitine: CPT shuttle system, fatty acid β-oxidation, VO2max +6% (athletes), TMAO controversy, depression biomarker (ALC AUC=0.898)
+- `entities/exercise-science/supplements/glutamine.md` — Glutamine: conditionally essential, post-marathon infection ↓60-63% (2.5g post-race), gut barrier, glutathione precursor
+- `entities/exercise-science/supplements/bcaas.md` — BCAAs: leucine threshold ~2.5g for mTOR, DOMS ↓34% at 72h, CNS fatigue (tryp-tophan/BCAA BBB competition); EAA superior to BCAA alone
+- `entities/exercise-science/supplements/creatine.md` — Creatine: ATP-PCr system, +15-40% PCr stores, loading 0.3g/kg×5d → maintenance 3-5g/day, safe >5 years, vegetarian benefit
+
+### Index Pages Updated (1)
+- `supplements-index.md` — Added 6 new entity entries with evidence ratings
+
+### Home Page Updated
+- Entity count: ~86 → ~92
+- Last updated: 2026-05-23 → 2026-05-27
+
+## [2026-05-27] ingest | relay-neuron physiology, training, health batches — 12 new entity pages
+
+Processed relay-neuron research files (2026-05-11 to 2026-05-12) across physiology, training, and health domains.
+
+### Physiology Entity Pages Created (4 new)
+- `entities/exercise-science/physiology/mitochondrial-function.md` — Mitochondrial adaptations: PGC-1α/AMPK/SIRT1 axis, ETC complexes I-V, NAD+ precursors, mitophagy
+- `entities/exercise-science/physiology/carotid-body.md` — Carotid body: VO2max trainability gatekeeper, KATP channels, HVR, altitude/LHTL mechanisms
+- `entities/exercise-science/physiology/exercise-immunology.md` — Exercise immunology: J-curve, open window (3-72h), URTI risk, moderate vs strenuous exercise
+- `entities/exercise-science/physiology/exercise-epigenetics.md` — Exercise epigenetics: DNA methylation, telomere length (+238bp with strength training), histone modifications
+
+### Training Entity Pages Created (2 new)
+- `entities/exercise-science/training/flexibility-mobility.md` — Flexibility/mobility: dynamic vs static vs PNF vs foam rolling, injury risk, ROM enhancement
+- `entities/exercise-science/training/fascia-training.md` — Fascia training: force transmission (20-40%), proprioceptive function, sensory organ architecture
+
+### Health Entity Pages Created (4 new)
+- `entities/exercise-science/health/cardiac-exercise.md` — Cardiac exercise: VO2max strongest mortality predictor (HR 5.04), athlete's heart, cardiac rehab
+- `entities/exercise-science/health/cognitive-performance.md` — Cognitive performance: BDNF (4-5× from 6min HIIT), executive function, hippocampal neurogenesis
+- `entities/exercise-science/health/gi-health.md` — GI health: microbiome +15-30%, gut training, EIGS (40-70% endurance athletes), GI adaptation
+- `entities/exercise-science/health/gut-barrier.md` — Gut barrier: tight junctions (claudin-1/occludin/ZO-1), 20-40% permeability reduction vs sedentary
+
+### Index Pages Updated (4)
+- `physiology-index.md` — Added 4 new entities (mitochondrial-function, carotid-body, exercise-immunology, exercise-epigenetics)
+- `training-index.md` — Added 2 new entities (flexibility-mobility, fascia-training)
+- `exercise-health-index.md` — Added 4 new entities (cardiac-exercise, cognitive-performance, gi-health, gut-barrier)
+- `home.md` — Entity count: ~92 → ~110; last updated 2026-05-27
+
+### Existing Entities Verified (already covered by existing pages)
+- Cold/heat therapy recovery — covered by recovery-science.md
+- Neural drive/fatigue mechanisms — covered by motor-unit-recruitment.md and fatigue-recovery.md
+- Muscle protein synthesis-resistance training — covered by mps-muscle-protein-synthesis.md and protein-timing.md
+- Gut microbiome-muscle health — covered by gut-muscle-axis.md
+- Altitude/hypoxia training — covered by altitude-training.md
+- Muscle anatomy (50+ files) — consolidated into muscle-function-training.md
