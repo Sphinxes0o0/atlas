@@ -2,7 +2,7 @@
 type: index
 tags: [exercise-science, training]
 created: 2026-05-22
-updated: 2026-05-23
+updated: 2026-05-28
 ---
 
 # Exercise Science — Training Methodology
@@ -26,6 +26,7 @@ updated: 2026-05-23
 | [[entities/exercise-science/training/training-autoregulation]] | Training autoregulation: RPE, ACWR, self-regulation | exercise-science, training |
 | [[entities/exercise-science/training/flexibility-mobility]] | Flexibility/mobility: dynamic vs static vs PNF vs foam rolling | exercise-science, flexibility |
 | [[entities/exercise-science/training/fascia-training]] | Fascia training: force transmission, proprioception, remodeling | exercise-science, fascia |
+| [[entities/exercise-science/training/vibration-training]] | Vibration training: WBV, TVR reflex, strength/power/bone density gains | exercise-science, training, vibration |
 
 ## Cross-References
 

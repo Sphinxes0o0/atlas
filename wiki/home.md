@@ -9,7 +9,7 @@ updated: 2026-05-28
 
 > 运动科学知识库。从 pyramid 拆分而来，专注运动生理学、训练方法、跑步、营养补剂、生物力学、可穿戴技术。
 >
-> Last updated: 2026-05-28 | Total entities: ~129
+> Last updated: 2026-05-28 | Total entities: ~131
 
 ---
 
@@ -19,7 +19,7 @@ updated: 2026-05-28
 | Index | Domain | Entities |
 |-------|--------|----------|
 | [[physiology-index]] | Muscle hypertrophy, mTOR, MPS, VO2max, lactate threshold, BFR... | 41 |
-| [[training-index]] | Periodization, tapering, training methods | 11 |
+| [[training-index]] | Periodization, tapering, training methods | 12 |
 
 ### Running
 | Index | Domain | Entities |
@@ -86,6 +86,8 @@ updated: 2026-05-28
 | [[sources/relay-neuron-injury-fear]] | 运动损伤心理：kinesiophobia（运动恐惧）、损伤后心理障碍、回归运动心理 | 2026-05 |
 | [[sources/relay-neuron-meditation]] | 正念冥想训练：运动表现益处与风险（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-synthesis]] | 跨主题综合研究（25轮次）| 2026-04 |
+| [[sources/relay-neuron-vibration-training]] | 全身振动训练(WBV)：TVR机制、力量/爆发力/骨密度效益、安全禁忌（2024-2026）| 2026-05 |
+| [[sources/test-ingest]] | 测试占位符 | 2026-05 |
 
 ---
 

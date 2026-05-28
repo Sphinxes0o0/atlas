@@ -1,0 +1,75 @@
+---
+type: entity
+tags: [exercise-science, training, vibration, WBV, strength, bone-health]
+created: 2026-05-28
+updated: 2026-05-28
+sources: [relay-neuron-vibration-training]
+---
+
+# 振动训练 (Whole-Body Vibration / WBV)
+
+## 定义
+
+全身振动训练（Whole-Body Vibration, WBV）通过外部机械振动平台向身体传递振荡刺激，激活肌梭诱发强直振动反射（TVR），从而募集通常难以通过意志激活的高阈值运动单位。
+
+## 核心机制：强直振动反射（TVR）
+
+- 机械振动激活肌梭Ia型传入纤维 → 高频Ia传入放电
+- 通过单突触通路激活α-运动神经元 → 不自主肌肉收缩
+- 绕过意志激活瓶颈，募集高阈值Type II纤维
+
+## 关键参数
+
+| 参数 | 力量/爆发力 | 骨密度 | 循环/恢复 | 放松 |
+|------|------------|--------|----------|------|
+| 频率 | 30-50Hz | 30-40Hz | 15-30Hz | 5-20Hz |
+| 振幅 | 4-6mm | 1-2mm | 1-3mm | 低 |
+| 姿势 | 半蹲30-60度 | 全足平放 | 半蹲 | 站立 |
+
+**间歇原则**：30-60秒开 + 30-60秒休息；每节总振动时间≤15分钟
+
+## 效益证据
+
+### 急性效应
+- 最大等长力量：+5-10%，持续10-15分钟（适合赛前激活）
+- CMJ高度：+3-8%
+- 冲刺速度：+1-3%
+
+### 慢性训练效应
+- 最大力量ES=0.35-0.50（ Marín & Rhea 荟萃分析，n=857）
+- 爆发力ES=0.30-0.45
+- 老年人下肢力量增长：15-30%
+
+### 骨密度
+- 绝经后妇女腰椎BMD：+1-2%（6-12个月）
+- 腰椎BMD效应量：ES=0.50-0.60
+
+### 代谢/循环
+- 皮肤血流量：+50-100%，持续30-60分钟
+- 空腹血糖（糖尿病患者）：-5-10%
+- 动脉僵硬度：-5-8%
+
+### 康复应用
+- 跟腱病变疼痛：-40-50%（6周局部振动80-100Hz）
+- DOMS恢复：振动泡沫轴优于普通泡沫轴
+
+## 局限性
+
+- **训练有素者获益极小**：ES<0.10，不可替代重负荷抗阻
+- **单独振动不足以显著肥大**：横截面积变化<2-3% vs 抗阻训练5-15%
+- **头部振动传输**：膝盖锁定增加30-50%，应保持屈膝15-30度
+- **设备差异大**：低成本平台频率误差±5-10Hz
+
+## 禁忌证
+
+**绝对禁忌**：急性血栓、近期骨折（<6周）、急性炎症、妊娠早期、未控制高血压（>180/110mmHg）、视网膜脱离/近期眼科手术、植入电子设备（心脏起搏器等）
+
+**相对禁忌**：严重骨质疏松（T<-3.0）、椎间盘突出急性期、肾/胆结石、严重偏头痛、前庭功能障碍、癫痫
+
+## 相关概念
+
+- [[entities/exercise-science/training/electrical-stimulation-training]] — EMS/NMES（互补电刺激技术）
+- [[entities/exercise-science/physiology/motor-unit-recruitment]] — 运动单位募集机制
+- [[entities/exercise-science/health/bone-health-exercise]] — 骨骼健康（WBV对骨质疏松的应用）
+- [[entities/exercise-science/physiology/fatigue-recovery]] — 恢复科学
+- [[entities/exercise-science/training/strength-training]] — 传统抗阻训练（不可被WBV替代）
