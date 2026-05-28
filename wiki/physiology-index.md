@@ -57,6 +57,8 @@ created: 2026-05-22
 | [[entities/exercise-science/physiology/rehabilitation-exercise]] | Rehabilitation: injury recovery, staged progression, return to sport | exercise-science, clinical |
 | [[entities/exercise-science/physiology/mitochondrial-function]] | Mitochondrial adaptations: PGC-1α, ETC complexes, NAD+, mitophagy | exercise-science, metabolism |
 | [[entities/exercise-science/physiology/carotid-body]] | Carotid body: VO2max trainability, KATP channels, hypoxia, altitude | exercise-science, oxygen-sensing |
+| [[entities/exercise-science/physiology/altitude-hypoxia-training]] | Altitude/hypoxia: HiLo, EPO, Hb mass, AMS/HAPE risks, HIF pathway | exercise-science, altitude |
+| [[entities/exercise-science/physiology/protein-synthesis-window]] | Anabolic window, leucine threshold ~2.5g, MPS timing, nutrient co-ingestion | exercise-science, protein-metabolism |
 
 ## Cross-References
 

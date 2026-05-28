@@ -2,14 +2,14 @@
 type: index
 tags: [navigation, exercise-science]
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-05-28
 ---
 
 # Atlas — Exercise Science Wiki
 
 > 运动科学知识库。从 pyramid 拆分而来，专注运动生理学、训练方法、跑步、营养补剂、生物力学、可穿戴技术。
 >
-> Last updated: 2026-05-28 | Total entities: ~114
+> Last updated: 2026-05-28 | Total entities: ~119
 
 ---
 
@@ -44,6 +44,7 @@ updated: 2026-05-23
 | Index | Domain | Entities |
 |-------|--------|----------|
 | [[technology-index]] | Wearable devices, HRV monitoring, running power meters, AI/ML | 4 |
+| [[recovery-index]] | Cold-heat therapy, soft tissue repair, bioregulators, EMS, IHT | 4 |
 | [[kinesiology-tape-index]] | Kinesiology tape: mechanism, clinical evidence, pain management | 1 |
 
 ---
@@ -65,6 +66,10 @@ updated: 2026-05-23
 | [[sources/relay-neuron-sport-specific]] | 跑步专项：越野跑生理/损伤/心理、超耐力（11主题）| 2026-04 |
 | [[sources/relay-neuron-health-applications]] | 运动健康应用：心理健康、心血管、糖尿病、衰老、睡眠、认知功能、GI健康、运动心理学、月经周期、更年期骨健康（~20主题）| 2026-05 |
 | [[sources/relay-neuron-biomechanics]] | 跑步生物力学：步态分析、步频步幅、损伤生物力学、跑鞋、软组织修复、筋膜训练（~12主题）| 2026-05 |
+| [[sources/relay-neuron-cold-heat-therapy]] | 冷热疗法：CWI、桑拿、对比疗法、全身冷冻（WBC）机制与适应权衡 | 2026-05 |
+| [[sources/relay-neuron-soft-tissue-repair]] | 软组织修复：肌腱病、肌肉拉伤、筋膜、离心训练、PRP、韧带愈合 | 2026-05 |
+| [[sources/relay-neuron-bioregulators]] | 生物调节恢复技术：WBC、光生物调节、IHT、呼吸技术、EMS（效益与风险）| 2026-05 |
+| [[sources/relay-neuron-altitude-hypoxia]] | 高原低氧训练：HiLo、EPO、AMS/HAPE风险、HIF通路（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-neuroscience]] | 神经驱动与疲劳机制：运动神经科学文献综合（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-psychology]] | 运动心理学风险：成瘾、过度训练综合征（OTS）、RED-S、心理依赖（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-injury-fear]] | 运动损伤心理：kinesiophobia（运动恐惧）、损伤后心理障碍、回归运动心理 | 2026-05 |
