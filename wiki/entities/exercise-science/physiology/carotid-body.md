@@ -2,8 +2,8 @@
 type: entity
 tags: [exercise-science, physiology, carotid-body, VO2max, hypoxia, chemoreceptor]
 created: 2026-05-27
-updated: 2026-05-27
-sources: [relay-neuron-physiology]
+updated: 2026-05-28
+sources: [relay-neuron-physiology, relay-neuron-carotid-body]
 ---
 
 # Carotid Body & VO2max Adaptation (颈动脉体与VO2max适应)

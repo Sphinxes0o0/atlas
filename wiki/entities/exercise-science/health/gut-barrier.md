@@ -2,8 +2,8 @@
 type: entity
 tags: [exercise-science, health, gut-barrier, tight-junctions, intestinal-permeability]
 created: 2026-05-27
-updated: 2026-05-27
-sources: [relay-neuron-health-applications]
+updated: 2026-05-28
+sources: [relay-neuron-health-applications, relay-neuron-gut-barrier]
 ---
 
 # Gut Barrier Integrity & Exercise (肠道屏障与运动)
@@ -74,6 +74,28 @@ Exercise activates heat shock proteins:
 - **Prolonged exercise**: May temporarily impair barrier
 - **Individual variation**: GI training adaptation varies
 - **Nutrition interaction**: Gut barrier benefits amplified with adequate nutrition
+
+### 新风险发现 (2026-05)
+
+**运动性胃肠道综合征(EIGS)**:
+- 运动强度>70% VO2max时，腹腔血流减少50-80%
+- zonulin释放增加→紧密连接破坏→内毒素转运
+- 马赛后LPS增加284%，IL-6增加74倍
+
+**I-FABP生物标志物**:
+- 肠细胞损伤特异性标志物
+- 高强度运动后升高189-448%
+- 恢复需要24-72小时
+
+**蛋白吸收损害**:
+- GI症状运动员氨基酸峰值浓度降低34%
+- 吸收延迟22分钟
+- 可能损害肌肉蛋白质合成
+
+**过度训练风险**:
+- 过度训练运动员I-FABP持续升高
+- 慢性内毒素暴露→CRP持续升高
+- GI症状先于I-FABP升高约2周
 
 ## Cross-References
 

@@ -20,7 +20,8 @@ updated: 2026-05-23
 | [[entities/exercise-science/health/cardiac-exercise]] | Cardiac exercise: VO2max strongest mortality predictor, athlete's heart, cardiac rehab | exercise-science, health |
 | [[entities/exercise-science/health/cognitive-performance]] | Cognitive performance: BDNF, executive function, hippocampal neurogenesis | exercise-science, health |
 | [[entities/exercise-science/health/gi-health]] | GI health: microbiome diversity +15-30%, gut training, EIGS prevention | exercise-science, health |
-| [[entities/exercise-science/health/gut-barrier]] | Gut barrier: tight junctions, 20-40% permeability reduction, endotoxin protection | exercise-science, health |
+| [[entities/exercise-science/health/gut-barrier]] | Gut barrier: tight junctions, 20-40% permeability reduction, EIGS, I-FABP, endotoxin protection | exercise-science, health |
+| [[entities/exercise-science/health/gut-barrier-function]] | Gut barrier risks: splanchnic hypoperfusion, LPS translocation, protein absorption impairment | exercise-science, health |
 
 ## Cross-References
 

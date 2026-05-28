@@ -246,3 +246,48 @@ Processed relay-neuron research files (2026-05-11 to 2026-05-12) across physiolo
 - Gut microbiome-muscle health — covered by gut-muscle-axis.md
 - Altitude/hypoxia training — covered by altitude-training.md
 - Muscle anatomy (50+ files) — consolidated into muscle-function-training.md
+
+## [2026-05-28] ingest | relay-neuron physiology/genetics/immunology batch
+
+Ingested 24 relay-neuron research files (2026-05-11 to 2026-05-13) across physiology, genetics, immunology, biomechanics, health, and technology domains.
+
+### Source Pages Created (11 new)
+- `sources/relay-neuron-mitochondrial.md` — ETC Complex I-V, NAD+ metabolism, mitophagy, ROS/oxidative stress
+- `sources/relay-neuron-mtor-pathway.md` — GATOR2/ILF3/FBXO2 mechanisms, leucine threshold, hyperactivation risks
+- `sources/relay-neuron-carotid-body.md` — CB: VO2max trainability, K+ channels, CIH synergy, HVR regulation
+- `sources/relay-neuron-exercise-genetics.md` — ACTN3/ACE/PPARGC1A polymorphisms, personalized training, genetic determinism myths
+- `sources/relay-neuron-exercise-epigenetics.md` — DNA methylation, telomere length, histone modifications
+- `sources/relay-neuron-exercise-immunology.md` — J-curve, open window theory, IgA, neutrophil/lymphocyte dynamics
+- `sources/relay-neuron-gut-barrier.md` — Gut barrier: tight junctions, HSP70, EIGS, I-FABP biomarker
+- `sources/relay-neuron-fascia-mobility.md` — Fascia as sensory organ, foam rolling, PNF, evidence quality limitations
+- `sources/relay-neuron-gait-biomechanics.md` — Running economy improvement, gait retraining risks, foot strike optimization
+- `sources/relay-neuron-wearable-devices.md` — Biohacking: HRV biofeedback (d=0.64), CGM, AI optimization (78-92%)
+
+### Entity Pages Created (3 new)
+- `entities/exercise-science/health/gut-barrier-function.md` — Gut barrier risks: splanchnic hypoperfusion, LPS translocation, protein absorption impairment, I-FABP monitoring
+- `entities/exercise-science/biomechanics/fascia-mobility-training.md` — Fascia as sensory organ (20-40% force transmission), ROM improvements, evidence quality issues
+- `entities/exercise-science/biomechanics/gait-biomechanics.md` — Running economy ↑5-7%, step rate optimization, gait retraining injury recurrence (23.5% at 6 months)
+
+### Entity Pages Updated (5)
+- `entities/exercise-science/physiology/mtor-pathway.md` — Added GATOR2/Sestrin2/CASTOR1 mechanisms, mTORC1 hyperactivation risks
+- `entities/exercise-science/technology/wearable-devices.md` — Added biohacking content source reference
+- `entities/exercise-science/health/gut-barrier.md` — Added new risk findings: EIGS, I-FABP biomarker, protein absorption impairment, overtraining risks
+- `entities/exercise-science/physiology/carotid-body.md` — Added relay-neuron-carotid-body source
+- `sources/relay-neuron-physiology.md` — Added 9 new subtopic entries
+
+### Index Pages Updated (3)
+- `biomechanics-index.md` — Added gait-biomechanics and fascia-mobility-training (4 → 6 entities)
+- `exercise-health-index.md` — Added gut-barrier-function (11 → 12 entities)
+- `technology-index.md` — Updated wearable-devices with biohacking content
+
+### Home Page Updated
+- Entity count: ~119 → ~122
+- Last updated: 2026-05-28
+- Added 11 new source entries to sources table
+
+### Skipped (Already Covered)
+- Mitochondrial files — already covered by existing mitochondrial-function.md entity
+- Quantum bioenergetics (CoQ10) — already covered by existing coq10 entity
+- Exercise genetics limitations — ACTN3 myth already covered
+- Gut microbiome muscle health — covered by existing gut-muscle-axis.md
+- Biohacking wearables limitations — covered by existing wearable-devices.md

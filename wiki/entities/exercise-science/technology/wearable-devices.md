@@ -2,7 +2,8 @@
 type: entity
 tags: [exercise-science, technology, wearable-devices, running, monitoring]
 created: 2026-05-22
-sources: [relay-neuron-technology]
+updated: 2026-05-28
+sources: [relay-neuron-technology, relay-neuron-wearable-devices]
 ---
 
 # 可穿戴设备 (Wearable Devices)

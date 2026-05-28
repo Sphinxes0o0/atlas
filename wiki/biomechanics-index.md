@@ -14,6 +14,8 @@ updated: 2026-05-23
 | Entity | Description | Tags |
 |--------|-------------|------|
 | [[entities/exercise-science/biomechanics/gait-analysis]] | Gait analysis: ground contact time, vertical oscillation, stride metrics | exercise-science, biomechanics |
+| [[entities/exercise-science/biomechanics/gait-biomechanics]] | Gait retraining: running economy ↑5-7%, step rate optimization, injury recurrence risks | exercise-science, biomechanics |
+| [[entities/exercise-science/biomechanics/fascia-mobility-training]] | Fascia as sensory organ: foam rolling, PNF, ROM improvements, tissue remodeling | exercise-science, biomechanics |
 | [[entities/exercise-science/biomechanics/running-shoes]] | Running shoes: cushioning, pronation support, carbon plate technology | exercise-science, biomechanics |
 | [[entities/exercise-science/biomechanics/cadence-stride]] | Cadence & stride: step rate optimization, overstriding prevention | exercise-science, biomechanics |
 | [[entities/exercise-science/biomechanics/running-injury-biomechanics]] | Injury biomechanics: GRF loading, kinetic chain, gait retraining | exercise-science, biomechanics |
