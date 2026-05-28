@@ -9,7 +9,7 @@ updated: 2026-05-23
 
 > 运动科学知识库。从 pyramid 拆分而来，专注运动生理学、训练方法、跑步、营养补剂、生物力学、可穿戴技术。
 >
-> Last updated: 2026-05-27 | Total entities: ~110
+> Last updated: 2026-05-28 | Total entities: ~114
 
 ---
 
@@ -36,7 +36,7 @@ updated: 2026-05-23
 ### Health & Populations
 | Index | Domain | Entities |
 |-------|--------|----------|
-| [[exercise-health-index]] | Exercise as medicine, chronic disease, mental health, aging/sarcopenia, sleep | 4 |
+| [[exercise-health-index]] | Exercise as medicine, chronic disease, mental health, kinesiophobia, meditation, aging/sarcopenia, sleep | 11 |
 | [[obesity-index]] | Obesity & visceral fat: 5-system impact | 6 |
 | [[population-index]] | Youth, master, female, elite runners | 4 |
 
@@ -65,6 +65,10 @@ updated: 2026-05-23
 | [[sources/relay-neuron-sport-specific]] | 跑步专项：越野跑生理/损伤/心理、超耐力（11主题）| 2026-04 |
 | [[sources/relay-neuron-health-applications]] | 运动健康应用：心理健康、心血管、糖尿病、衰老、睡眠、认知功能、GI健康、运动心理学、月经周期、更年期骨健康（~20主题）| 2026-05 |
 | [[sources/relay-neuron-biomechanics]] | 跑步生物力学：步态分析、步频步幅、损伤生物力学、跑鞋、软组织修复、筋膜训练（~12主题）| 2026-05 |
+| [[sources/relay-neuron-neuroscience]] | 神经驱动与疲劳机制：运动神经科学文献综合（2024-2026）| 2026-05 |
+| [[sources/relay-neuron-psychology]] | 运动心理学风险：成瘾、过度训练综合征（OTS）、RED-S、心理依赖（2024-2026）| 2026-05 |
+| [[sources/relay-neuron-injury-fear]] | 运动损伤心理：kinesiophobia（运动恐惧）、损伤后心理障碍、回归运动心理 | 2026-05 |
+| [[sources/relay-neuron-meditation]] | 正念冥想训练：运动表现益处与风险（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-synthesis]] | 跨主题综合研究（25轮次）| 2026-04 |
 
 ---

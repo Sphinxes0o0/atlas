@@ -67,6 +67,8 @@ sources: [relay-neuron-health-applications]
 - [[entities/exercise-science/physiology/vo2max]] — 有氧运动提升VO2max间接改善认知
 - [[entities/exercise-science/health/exercise-sleep]] — 运动改善睡眠，进而改善心理健康
 - [[entities/exercise-science/running/ultra-endurance]] — 超耐力运动对心理韧性的双重影响
+- [[entities/exercise-science/health/exercise-psychology]] — 运动成瘾、过度训练综合征、RED-S等心理学风险
+- [[entities/exercise-science/health/kinesiophobia]] — 运动恐惧与回归运动心理准备
 
 ## 来源详情
 
