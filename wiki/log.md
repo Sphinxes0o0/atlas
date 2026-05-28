@@ -291,3 +291,27 @@ Ingested 24 relay-neuron research files (2026-05-11 to 2026-05-13) across physio
 - Exercise genetics limitations — ACTN3 myth already covered
 - Gut microbiome muscle health — covered by existing gut-muscle-axis.md
 - Biohacking wearables limitations — covered by existing wearable-devices.md
+
+## [2026-05-28] ingest | relay-neuron muscle anatomy — 32 files → 7 consolidated entity pages
+
+Processed 32 individual muscle anatomy B-M-R-I research files (2026-05-23) from relay-neuron research directory. Consolidated into 7 comprehensive anatomical group entity pages under `biomechanics/muscle-anatomy/`.
+
+### Source Pages Created (1 new)
+- `sources/relay-neuron-muscle-anatomy.md` — Umbrella source page summarizing all 7 anatomical groups, EMG highlights table, key findings, and research methodology
+
+### Entity Pages Created (7 new)
+- `entities/exercise-science/biomechanics/muscle-anatomy/shoulder-girdle.md` — Deltoid (3 heads), rotator cuff (supraspinatus, infraspinatus, teres minor, subscapularis), teres major. Anatomy, EMG, injuries, training recommendations.
+- `entities/exercise-science/biomechanics/muscle-anatomy/upper-arm.md` — Biceps brachii, brachialis, brachioradialis, triceps (3 heads), anconeus, pronator teres, supinator. Function, EMG, injury mechanisms.
+- `entities/exercise-science/biomechanics/muscle-anatomy/chest-back.md` — Pectoralis major/minor, latissimus dorsi, trapezius (upper/middle/lower), rhomboid, levator scapulae, serratus anterior. Force couples, EMG, corrective strategies.
+- `entities/exercise-science/biomechanics/muscle-anatomy/core.md` — Rectus abdominis, transverse abdominis, internal/external obliques, erector spinae, multifidus, quadratus lumborum, rotatores. McGill framework, EMG table, back pain prevention.
+- `entities/exercise-science/biomechanics/muscle-anatomy/hip.md` — Gluteus max/med/min, iliopsoas, TFL, deep rotators (piriformis, quadratus femoris), adductor group. Gluteal activation, Trendelenburg, force couples.
+- `entities/exercise-science/biomechanics/muscle-anatomy/thigh.md` — Quadriceps (RF/VL/VM/VI), hamstrings (biceps femoris/semitendinosus/semimembranosus), adductors. VMO tracking, Nordic curl, groin strain.
+- `entities/exercise-science/biomechanics/muscle-anatomy/lower-leg.md` — Gastrocnemius, soleus, tibialis anterior, peroneals, deep posterior compartment (tibialis posterior, FHL, FDL). Calf raise variations, Achilles tendinopathy, compartment syndrome.
+
+### Index Pages Updated (2)
+- `biomechanics-index.md` — Added "Muscle Anatomy" section with all 7 entity entries
+- `home.md` — Added relay-neuron-muscle-anatomy source entry; entity count ~122 → ~129
+
+### Skipped (Already Covered)
+- Individual 32 files → consolidated into 7 group pages (as instructed by user)
+- muscle-function-training.md in physiology/ — pre-existing 56-muscle consolidated page; new muscle-anatomy pages provide deeper anatomical detail with dedicated sections

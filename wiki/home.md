@@ -9,7 +9,7 @@ updated: 2026-05-28
 
 > 运动科学知识库。从 pyramid 拆分而来，专注运动生理学、训练方法、跑步、营养补剂、生物力学、可穿戴技术。
 >
-> Last updated: 2026-05-28 | Total entities: ~122
+> Last updated: 2026-05-28 | Total entities: ~129
 
 ---
 
@@ -80,6 +80,7 @@ updated: 2026-05-28
 | [[sources/relay-neuron-exercise-immunology]] | 运动免疫学：J型曲线、开放窗口、IgA、中性粒细胞/淋巴细胞（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-gut-barrier]] | 肠道屏障功能：运动改善屏障、紧密连接、HSP70、EIGS、I-FABP生物标志物（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-fascia-mobility]] | 筋膜与灵活性训练：筋膜感觉器官、力量传递、泡沫轴、PNF、证据局限性（2024-2026）| 2026-05 |
+| [[sources/relay-neuron-muscle-anatomy]] | 肌肉解剖学：三角肌、肩袖、肱二/三头肌、胸背肌群、核心、髋关节、大腿、小腿（共32个文件→7个实体页）| 2026-05 |
 | [[sources/relay-neuron-gait-biomechanics]] | 步态生物力学：跑步经济性改善、步态重训练风险、足尖模式、步频优化（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-wearable-devices]] | 生物黑客与可穿戴设备：HRV生物反馈、训练负荷、睡眠、CGM、AI优化（2024-2026）| 2026-05 |
 | [[sources/relay-neuron-injury-fear]] | 运动损伤心理：kinesiophobia（运动恐惧）、损伤后心理障碍、回归运动心理 | 2026-05 |

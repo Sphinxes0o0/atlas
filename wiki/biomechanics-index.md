@@ -2,7 +2,7 @@
 type: index
 tags: [exercise-science, biomechanics]
 created: 2026-05-22
-updated: 2026-05-23
+updated: 2026-05-28
 ---
 
 # Exercise Science — Biomechanics
@@ -19,6 +19,18 @@ updated: 2026-05-23
 | [[entities/exercise-science/biomechanics/running-shoes]] | Running shoes: cushioning, pronation support, carbon plate technology | exercise-science, biomechanics |
 | [[entities/exercise-science/biomechanics/cadence-stride]] | Cadence & stride: step rate optimization, overstriding prevention | exercise-science, biomechanics |
 | [[entities/exercise-science/biomechanics/running-injury-biomechanics]] | Injury biomechanics: GRF loading, kinetic chain, gait retraining | exercise-science, biomechanics |
+
+### Muscle Anatomy
+
+| Entity | Description | Tags |
+|--------|-------------|------|
+| [[entities/exercise-science/biomechanics/muscle-anatomy/shoulder-girdle]] | Shoulder girdle: deltoid, rotator cuff (supraspinatus/infraspinatus/teres minor/subscapularis), teres major | exercise-science, biomechanics, muscle-anatomy |
+| [[entities/exercise-science/biomechanics/muscle-anatomy/upper-arm]] | Upper arm: biceps, triceps, brachialis, brachioradialis, anconeus, pronator teres, supinator | exercise-science, biomechanics, muscle-anatomy |
+| [[entities/exercise-science/biomechanics/muscle-anatomy/chest-back]] | Chest & back: pectoralis major/minor, latissimus dorsi, trapezius (upper/middle/lower), rhomboid, levator scapulae, serratus anterior | exercise-science, biomechanics, muscle-anatomy |
+| [[entities/exercise-science/biomechanics/muscle-anatomy/core]] | Core: rectus abdominis, transverse abdominis, internal/external obliques, erector spinae, multifidus, QL, rotatores | exercise-science, biomechanics, muscle-anatomy |
+| [[entities/exercise-science/biomechanics/muscle-anatomy/hip]] | Hip: gluteus max/med/min, iliopsoas, TFL, piriformis, deep rotators, pectineus, gracilis, adductors | exercise-science, biomechanics, muscle-anatomy |
+| [[entities/exercise-science/biomechanics/muscle-anatomy/thigh]] | Thigh: quadriceps (RF/VL/VM/VI), hamstrings (biceps femoris/semitendinosus/semimembranosus), adductor group | exercise-science, biomechanics, muscle-anatomy |
+| [[entities/exercise-science/biomechanics/muscle-anatomy/lower-leg]] | Lower leg: gastrocnemius, soleus, tibialis anterior, peroneals, tibialis posterior, FHL, FDL | exercise-science, biomechanics, muscle-anatomy |
 
 ## Cross-References
 
