@@ -315,3 +315,10 @@ Processed 32 individual muscle anatomy B-M-R-I research files (2026-05-23) from 
 ### Skipped (Already Covered)
 - Individual 32 files → consolidated into 7 group pages (as instructed by user)
 - muscle-function-training.md in physiology/ — pre-existing 56-muscle consolidated page; new muscle-anatomy pages provide deeper anatomical detail with dedicated sections
+
+## 2026-06-03
+- Personal runner profile entity created: `runner-sphinx-young-profile`
+- ITRA source page created: `source-itra-runner-young-sphinx`
+- running-index.md updated with new entry
+- Data: ITRA 6729918 Sphinx YOUNG, PI 354, 6 races including Jiuzhaigou 33K 7:31 (pending upload)
+- Tooling: opencli v1.8.2 + Chrome profile `65su345s` for ITRA API access

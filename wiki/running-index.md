@@ -2,7 +2,7 @@
 type: index
 tags: [exercise-science, running]
 created: 2026-05-22
-updated: 2026-05-23
+updated: 2026-06-03
 ---
 
 # Exercise Science — Running
@@ -18,6 +18,7 @@ updated: 2026-05-23
 | [[entities/exercise-science/running/ultra-endurance]] | Ultra-marathon: ultra-distance fueling, adaptation, recovery | exercise-science, running |
 | [[entities/exercise-science/running/trail-running-injuries]] | Trail running injuries: ankle sprains, ITBS, prevention strategies | exercise-science, running |
 | [[entities/exercise-science/running/trail-running-psychology]] | Trail psychology: mental toughness, self-talk, imagery training | exercise-science, running |
+| [[entities/exercise-science/running/runner-sphinx-young-profile]] | **Personal runner profile**: ITRA 6729918 Sphinx YOUNG — PI 354, 6 场完赛 (incl. Jiuzhaigou 33K 7:31) | exercise-science, running, personal |
 
 ## Cross-References
 
