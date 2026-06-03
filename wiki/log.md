@@ -322,3 +322,7 @@ Processed 32 individual muscle anatomy B-M-R-I research files (2026-05-23) from 
 - running-index.md updated with new entry
 - Data: ITRA 6729918 Sphinx YOUNG, PI 354, 6 races including Jiuzhaigou 33K 7:31 (pending upload)
 - Tooling: opencli v1.8.2 + Chrome profile `65su345s` for ITRA API access
+
+### Profile Updates (2)
+- `runner-sphinx-young-profile`: 6 月初 4 连战更新为 ITRA 实测数据 (7 场完整数据)，最终方案推荐 Chongli 50K
+- `runner-sphinx-young-profile`: 11 月 3 连战窗口 (42/35/40km) 加入
