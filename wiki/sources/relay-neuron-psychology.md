@@ -47,3 +47,8 @@ summary: "运动心理学风险：成瘾、过度训练综合征（OTS）、RED-
 ## Related Entities
 
 - [[entities/exercise-science/health/exercise-psychology]] — 运动心理学综合页面（含风险）
+
+
+## Related pages
+
+- [[entities/exercise-science/physiology/rpe]]

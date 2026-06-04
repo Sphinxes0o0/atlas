@@ -55,3 +55,8 @@ created: 2026-05-28
 - [[entities/exercise-science/health/exercise-sleep]]
 - [[entities/exercise-science/training/training-methods]]
 - [[entities/exercise-science/health/exercise-disease]]
+
+
+## Related pages
+
+- [[entities/exercise-science/physiology/exercise-immunology]]

@@ -209,3 +209,8 @@ mTORC1是蛋白质合成的分子开关。亮氨酸阈值~2.5g/餐激活mTORC1�
 - [[entities/exercise-science/physiology/hiitvsmict]]
 - [[entities/exercise-science/physiology/post-activation-potenti]]
 - [[entities/exercise-science/physiology/muscle-function-training]]
+
+
+## Related pages
+
+- [[entities/exercise-science/physiology/exercise-immunology]]

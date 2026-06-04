@@ -58,3 +58,8 @@ created: 2026-05-28
 - [[entities/exercise-science/training/altitude-training]]
 - [[entities/exercise-science/physiology/heart-rate-variability]]
 - [[entities/exercise-science/health/exercise-disease]]
+
+
+## Related pages
+
+- [[entities/exercise-science/physiology/carotid-body]]

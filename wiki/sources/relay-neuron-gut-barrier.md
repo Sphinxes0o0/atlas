@@ -62,3 +62,8 @@ created: 2026-05-28
 - [[entities/exercise-science/physiology/overtraining-syndrome]]
 - [[entities/exercise-science/health/exercise-disease]]
 - [[entities/exercise-science/nutrition/gut-microbiome-sports]]
+
+
+## Related pages
+
+- [[entities/exercise-science/health/gut-barrier]]

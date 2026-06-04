@@ -61,3 +61,8 @@ created: 2026-05-28
 - [[entities/exercise-science/running/running-economy]]
 - [[entities/exercise-science/technology/wearable-devices]]
 - [[entities/exercise-science/biomechanics/running-injury-biomechanics]]
+
+
+## Related pages
+
+- [[entities/exercise-science/biomechanics/gait-biomechanics]]

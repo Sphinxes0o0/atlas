@@ -52,3 +52,8 @@ created: 2026-05-28
 - [[entities/exercise-science/physiology/mitochondrial]]
 - [[entities/exercise-science/physiology/vo2max]]
 - [[entities/exercise-science/health/exercise-disease]]
+
+
+## Related pages
+
+- [[entities/exercise-science/physiology/exercise-epigenetics]]
