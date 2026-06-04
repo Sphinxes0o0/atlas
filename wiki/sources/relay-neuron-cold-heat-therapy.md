@@ -33,3 +33,8 @@ Thermal therapies for athletic recovery: cold water immersion (CWI), heat therap
 - Journal of Applied Physiology, 2020 (heat therapy/HSP)
 - CNKI 2022 (contrast therapy)
 - International Journal of Sports Medicine, 2017 (WBC)
+
+
+## Related pages
+
+- [[entities/exercise-science/recovery/cold-heat-therapy]]

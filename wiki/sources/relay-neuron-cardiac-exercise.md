@@ -301,3 +301,5 @@ Recent evidence supports CR benefits for:
 - [[entities/exercise-science/health/cardiac-exercise-benefits]]
 - [[entities/exercise-science/physiology/vo2max]]
 - [[entities/exercise-science/health/exercise-disease]]
+
+- [[entities/exercise-science/health/cardiac-exercise]]

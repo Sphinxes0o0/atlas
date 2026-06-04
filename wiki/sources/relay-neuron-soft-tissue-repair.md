@@ -44,3 +44,8 @@ Soft tissue injury repair and healing: tendinopathy rehabilitation, muscle strai
 - Sports Medicine, 2021 (ACWR meta-analysis)
 - Journal of Physiotherapy, 2022 (Achilles risk factors)
 - OALib, 2022 (hamstring risk factors)
+
+
+## Related pages
+
+- [[entities/exercise-science/recovery/soft-tissue-repair]]
