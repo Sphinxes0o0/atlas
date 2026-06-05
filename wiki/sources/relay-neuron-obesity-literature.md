@@ -117,4 +117,3 @@ summary: "23篇中国肥胖文献系统分析（2021-2026），涵盖心血管�
 
 ## Related pages
 
-- [[entities/exercise-science/health/obesity]]

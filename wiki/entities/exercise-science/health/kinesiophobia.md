@@ -159,4 +159,4 @@ sources: [relay-neuron-injury-fear]
 - [[entities/exercise-science/health/exercise-psychology]] — 运动成瘾与过度训练
 - [[entities/exercise-science/health/meditation-sport-performance]] — 正念干预增强心理韧性
 - [[entities/exercise-science/physiology/neural-drive-fatigue]] — 神经驱动与运动恐惧的神经基础
-- [[entities/exercise-science/running/running-injury]] — 跑步损伤与恐惧回避
+- 跑步损伤与恐惧回避

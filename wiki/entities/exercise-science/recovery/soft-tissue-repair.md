@@ -116,9 +116,9 @@ PRP衍生的细胞外囊泡（EVs）作为无细胞治疗选项——低免疫�
 ## Related Entities
 
 - [[entities/exercise-science/physiology/rehabilitation-exercise]] — 康复运动专项
-- [[entities/exercise-science/physiology/eccentric-training]] — 离心训练（肌腱病核心干预）
+- 离心训练（肌腱病核心干预）
 - [[entities/exercise-science/physiology/recovery-science]] — 恢复科学整体
 - [[entities/exercise-science/physiology/satellite-cells]] — 肌肉修复的卫星细胞机制
 - [[entities/exercise-science/physiology/mps-muscle-protein-synthesis]] — 蛋白质合成与组织愈合
 - [[entities/exercise-science/physiology/doms]] — DOMS与肌肉损伤
-- [[entities/exercise-science/health/obesity]] — 肥胖与组织修复能力下降
+- 肥胖与组织修复能力下降

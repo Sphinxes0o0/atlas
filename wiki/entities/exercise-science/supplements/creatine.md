@@ -95,6 +95,6 @@ Meta-analysis (Chilibeck 2017): Creatine + resistance training significantly inc
 
 - [[entities/exercise-science/physiology/muscle-hypertrophy]] — Training volume increase and cell hydration drive hypertrophy
 - [[entities/exercise-science/physiology/mtor-pathway]] — Creatine indirectly supports mTOR via training capacity
-- [[entities/exercise-science/training/power-training]] — Creatine particularly benefits power athletes
+- Creatine particularly benefits power athletes
 - [[entities/exercise-science/health/aging-sarcopenia]] — Creatine for elderly muscle preservation
 - [[entities/exercise-science/supplements/hmb]] — Both support muscle, creatine for power, HMB for anti-catabolic

@@ -81,7 +81,7 @@ created: 2026-05-28
 
 - [[entities/exercise-science/training/electrical-stimulation-training]] — EMS/NMES（互补技术）
 - [[entities/exercise-science/physiology/motor-unit-recruitment]] — 运动单位募集机制
-- [[entities/exercise-science/health/bone-health-exercise]] — 骨骼健康
+- 骨骼健康
 - [[entities/exercise-science/physiology/fatigue-recovery]] — 恢复
 
 

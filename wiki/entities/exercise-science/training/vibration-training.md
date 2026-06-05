@@ -70,6 +70,6 @@ sources: [relay-neuron-vibration-training]
 
 - [[entities/exercise-science/training/electrical-stimulation-training]] — EMS/NMES（互补电刺激技术）
 - [[entities/exercise-science/physiology/motor-unit-recruitment]] — 运动单位募集机制
-- [[entities/exercise-science/health/bone-health-exercise]] — 骨骼健康（WBV对骨质疏松的应用）
+- 骨骼健康（WBV对骨质疏松的应用）
 - [[entities/exercise-science/physiology/fatigue-recovery]] — 恢复科学
-- [[entities/exercise-science/training/strength-training]] — 传统抗阻训练（不可被WBV替代）
+- 传统抗阻训练（不可被WBV替代）

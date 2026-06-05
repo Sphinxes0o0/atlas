@@ -76,6 +76,6 @@ The 2026-05 research summary notes: "运动后EAA或蛋白质优于单独BCAAs" 
 ## Cross-References
 
 - [[entities/exercise-science/physiology/mtor-pathway]] — Leucine is the primary BCAA activating mTORC1
-- [[entities/exercise-science/physiology/muscle-protein-synthesis]] — BCAAs provide amino acid substrate for MPS
+- BCAAs provide amino acid substrate for MPS
 - [[entities/exercise-science/physiology/fatigue-recovery]] — Central fatigue mechanism (5-HT) and DOMS reduction
 - [[entities/exercise-science/nutrition/protein]] — Complete proteins superior to BCAAs alone

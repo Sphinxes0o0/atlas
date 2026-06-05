@@ -48,7 +48,7 @@ summary: "ITRA 官方个人越野跑档案，含 5 场已上传比赛 + 1 场待
 
 ## 详细分析见
 
-- [[runner-sphinx-young-profile]] — 个人 Profile 实体页面 (完整 PI 推算 + 趋势分析 + 6 月初策略)
+- 个人 Profile 实体页面 (完整 PI 推算 + 趋势分析 + 6 月初策略)
 
 ## 引用
 

@@ -38,7 +38,6 @@ Regular exercise confers profound cardioprotective effects through multiple phys
 
 - [[entities/exercise-science/health/exercise-disease]]
 - [[entities/exercise-science/physiology/vo2max]]
-- [[relay-neuron-cardiac-exercise]]
 
 ## Source
 

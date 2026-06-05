@@ -86,6 +86,6 @@ Recent research suggests gut microbiome converts L-carnitine → TMA → TMAO (t
 ## Cross-References
 
 - [[entities/exercise-science/supplements/coq10/coq10-cardiovascular]] — Both support mitochondrial energy production; CoQ10 for ETC Complex I-II, carnitine for fatty acid β-oxidation
-- [[entities/exercise-science/technology/bioregulators-recovery]] — Both have metabolic/ritochondrial applications
-- [[entities/exercise-science/physiology/mitochondrial]] — Carnitine shuttle is fundamental to mitochondrial fatty acid oxidation
+- Both have metabolic/ritochondrial applications
+- Carnitine shuttle is fundamental to mitochondrial fatty acid oxidation
 - [[entities/exercise-science/health/exercise-mental-health]] — ALC as biomarker for depression; BDNF mechanisms

@@ -53,7 +53,6 @@ created: 2026-05-28
 
 ## Related Entities
 
-- [[entities/exercise-science/physiology/mitochondrial]]
 - [[entities/exercise-science/physiology/vo2max]]
 - [[entities/exercise-science/health/exercise-disease]]
 - [[entities/exercise-science/supplements/coq10/coq10-overview]]
