@@ -326,3 +326,95 @@ Processed 32 individual muscle anatomy B-M-R-I research files (2026-05-23) from 
 ### Profile Updates (2)
 - `runner-sphinx-young-profile`: 6 月初 4 连战更新为 ITRA 实测数据 (7 场完整数据)，最终方案推荐 Chongli 50K
 - `runner-sphinx-young-profile`: 11 月 3 连战窗口 (42/35/40km) 加入
+
+## [2026-06-04] ingest | cardiac-exercise-benefits (1 entity + 1 source) — c06ab0a
+
+Single-file ingest from raw research: 2026-05-12-task-4-1-cardiac-exercise-benefits (one of 1350 raw files in relay-neuron; only 36 had been ingested so far). c06ab0a adds the 37th.
+
+### Pages Created (2)
+- `entities/exercise-science/health/cardiac-exercise-benefits.md` — new entity: cardiac remodeling, VO2max/mortality, coronary circulation; cross-linked to exercise-disease, vo2max
+- `sources/relay-neuron-cardiac-exercise.md` — source page summarizing raw research draft (tags: github, relay-neuron, cardiac, VO2max)
+
+## [2026-06-04] docs | cross-link source pages → entities (2 batches) — 7877d54, e00fdcd
+
+Two consecutive cross-link commits applying pyramid's d172cb0 + 95ad175 + 8480ac1 pattern (source → entity outbound link) to atlas.
+
+### Batch 1 — 7877d54 (6 cross-links)
+- relay-neuron-gut-barrier → health/gut-barrier (inbound 2→3)
+- relay-neuron-carotid-body → physiology/carotid-body (2→3)
+- relay-neuron-exercise-immunology → physiology/exercise-immunology (2→4 cross-source)
+- relay-neuron-exercise-epigenetics → physiology/exercise-epigenetics (1→2)
+- relay-neuron-psychology → physiology/rpe (2→3)
+- relay-neuron-gait-biomechanics → biomechanics/gait-biomechanics (1→2)
+- relay-neuron-physiology → physiology/exercise-immunology (extra link)
+
+### Batch 2 — e00fdcd (5 cross-links, post cardiac ingest)
+- relay-neuron-cardiac-exercise → health/cardiac-exercise (1→2)
+- relay-neuron-vibration-training → training/vibration-training
+- relay-neuron-soft-tissue-repair → recovery/soft-tissue-repair
+- relay-neuron-obesity-literature → health/obesity
+- relay-neuron-cold-heat-therapy → recovery/cold-heat-therapy
+
+Strategy: 1 outbound link per source (the entity that source specifically synthesizes), avoiding over-linking the relay-neuron-physiology.md hub. Lint: 0 new frontmatter issues.
+
+## [2026-06-05] lint | remove 15 dead wikilinks (unbuilt entity refs) — 8cf2991
+
+Removed 15 wikilinks pointing to entity pages that don't exist yet (and aren't on the near-term build roadmap). All 15 were outbound links in source pages referencing aspirational entities like specific muscle group entities, supplement sub-types, etc. No content was lost — links were [[bracketed]] with no anchor target.
+
+## [2026-06-07] chore | untrack wiki/raw + add atlas scripts — cd4f5f4
+
+Infrastructure cleanup.
+
+### Changes
+- `wiki/raw/` added to `.gitignore` (1350 regenerated relay-neuron data snapshots) — `git rm --cached` removed 15 MB from index; will shrink further on `git gc`
+- `scripts/`: added `atlas_coverage.py` (263 lines), `atlas_health.py` (357 lines), `ingest_relay_neuron.py` (468 lines)
+- `__pycache__/` and `*.pyc` added to `.gitignore`
+
+Raw snapshots remain on disk for local ingest, but no longer pollute the repo. Scripts power the local ingest + health-check workflow that replaced the earlier GitHub Actions auto-ingest (reverted in e6598a3).
+
+## [2026-06-07] fix | patch 17 source-page frontmatter + repair 1 wikilink — dadc36d
+
+Frontmatter hygiene pass on 17 relay-neuron source pages. `atlas_health.py` flagged `Source-page issues` in earlier runs; this commit clears the backlog.
+
+### Frontmatter Fixes (17 pages)
+- 16 relay-neuron sources: added missing `path:` (raw/github/relay-neuron/research/<topic>/) and `tags:` fields
+  - relay-neuron-altitude-hypoxia, bioregulators, cold-heat-therapy, injury-fear, kinesiology-tape, meditation, muscle-anatomy, neuroscience, obesity-literature, population-specific, psychology, soft-tissue-repair, technology, training-methods
+- relay-neuron-cardiac-exercise: corrected `source-type` (relay-neuron → github)
+- relay-neuron-supplements: corrected `path:` (research/supplements/ → raw/.../research/supplements/)
+- source-itra-runner-young-sphinx: added missing `tags:`
+
+### Wikilink Repair (1)
+- `entities/exercise-science/health/exercise-psychology.md`: corrected wikilink target (nutrition → nutrition/protein)
+
+## [2026-06-07] ingest | kinesiology-tape 5-source subtask split — d03010f
+
+Decomposed the 2026-04-28-kinesiology-tape research umbrella into 5 sub-source pages, one per research direction in the original subtask plan. 1350 raw files / 36 ingested → 41 ingested after this commit.
+
+### Source Pages Created (5 new)
+- `sources/relay-neuron-mechanism.md` — subtask 1-1: mechanism of action (neural feedback hypothesis, fascial decompression, gate control theory, lift/convolute/pressure hypotheses)
+- `sources/relay-neuron-muscle-strength.md` — subtask 1-2: muscle strength effects (meta-analyses, sport-specific strength, mechanism)
+- `sources/relay-neuron-joint-pain.md` — subtask 1-3: joint pain (osteoarthritis, patellofemoral, rotator cuff, dose-response)
+- `sources/relay-neuron-clinical-application.md` — subtask 1-4: clinical application (post-op, lymphedema, scar, pediatric, geriatric)
+- `sources/relay-neuron-latest-review.md` — subtask 1-5: latest review (2020-2025 systematic reviews, clinical guidelines update, future directions)
+
+Each source page ~250-285 lines, structured as: abstract / key findings / mechanism / clinical evidence / limitations / related entities. 5 new pages = 1332 insertions.
+
+Note: orphan report (`atlas_health.py`) currently lists these 5 + `relay-neuron-cardiac-exercise` (c06ab0a) + `source-itra-runner-young-sphinx` (cc01283) as orphans because no inbound links exist yet — to be addressed in a follow-up cross-link commit.
+
+### Lint Results (2026-06-07)
+
+| Check | Count |
+|-------|-------|
+| Total .md files (excl. wiki/raw/) | 195 |
+| Content pages (entities/sources/synthesis) | 181 |
+| Nav pages (indexes/home/log) | 14 |
+| Broken wikilinks | 0 |
+| Orphan pages | 7 |
+| Frontmatter issues | 0 |
+| Source-page issues | 0 |
+| Stale pages (>30d since updated) | 56 |
+| Large pages (>300 lines) | 2 |
+
+Orphan list: relay-neuron-cardiac-exercise, relay-neuron-clinical-application, relay-neuron-joint-pain, relay-neuron-latest-review, relay-neuron-mechanism, relay-neuron-muscle-strength, source-itra-runner-young-sphinx. All newly created (6/4-6/7) — inbound links pending.
+
+Stale 56: pre-2026-05-23 pages from initial pyramid-split batch; will refresh as part of cross-link pass.
