@@ -2,7 +2,7 @@
 type: entity
 tags: [exercise-science, recovery, kinesiology-tape, clinical-application, pain-management]
 created: 2026-05-22
-sources: [relay-neuron-kinesiology-tape]
+sources: [relay-neuron-kinesiology-tape, relay-neuron-mechanism, relay-neuron-muscle-strength, relay-neuron-joint-pain, relay-neuron-clinical-application, relay-neuron-latest-review]
 ---
 
 # 运动肌贴 (Kinesiology Tape)
@@ -78,3 +78,11 @@ sources: [relay-neuron-kinesiology-tape]
 ## 来源详情
 
 - [[sources/relay-neuron-kinesiology-tape]] — 运动肌贴综合研究 (2024-2026)
+
+### 子任务源（5 个主题拆分）
+
+- [[sources/relay-neuron-mechanism]] — 1.1 基本原理与作用机制
+- [[sources/relay-neuron-muscle-strength]] — 1.2 肌力与疲劳
+- [[sources/relay-neuron-joint-pain]] — 1.3 关节稳定性与疼痛
+- [[sources/relay-neuron-clinical-application]] — 1.4 临床应用
+- [[sources/relay-neuron-latest-review]] — 1.5 2024-2026 最新综述

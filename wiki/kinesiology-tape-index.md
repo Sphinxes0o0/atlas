@@ -18,6 +18,16 @@ created: 2026-05-22
 
 - [[sources/relay-neuron-kinesiology-tape]] — 5个主题综合研究 (2024-2026)
 
+## Sub-sources
+
+5 个子任务源（按主题拆分，2026-06-07 创建，保留 raw 原文可追溯性）：
+
+- [[sources/relay-neuron-mechanism]] — 1.1 基本原理与作用机制
+- [[sources/relay-neuron-muscle-strength]] — 1.2 肌力与疲劳
+- [[sources/relay-neuron-joint-pain]] — 1.3 关节稳定性与疼痛
+- [[sources/relay-neuron-clinical-application]] — 1.4 临床应用
+- [[sources/relay-neuron-latest-review]] — 1.5 2024-2026 最新综述
+
 ## Scope
 
 - 运动肌贴基本原理与作用机制
