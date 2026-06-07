@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Cold and Heat Therapy for Exercise Recovery"
 created: 2026-05-11
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, recovery, cold-therapy, heat-therapy, contrast-therapy]
 summary: "CWI, sauna, contrast therapy, WBC — mechanisms, protocols, and adaptation tradeoffs"
 ---
 

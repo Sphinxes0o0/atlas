@@ -8,6 +8,7 @@ date: 2026-04-12
 size: medium
 path: raw/github/relay-neuron/research/technology/
 summary: "可穿戴设备、HRV监控、跑步功率计、AI/ML训练预测、实时生理监控等技术综述 (2020-2026)"
+tags: [exercise-science, technology, wearables, hrv]
 ---
 
 # Relay Neuron — Technology Research (2020-2026)

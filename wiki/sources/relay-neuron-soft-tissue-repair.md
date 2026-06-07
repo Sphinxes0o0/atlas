@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Soft Tissue Repair, Injury Risks & Healing Mechanisms"
 created: 2026-05-12
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, recovery, soft-tissue, tendinopathy, injury]
 summary: "Tendinopathy, muscle strains, fascia, eccentric loading, PRP, ligament healing"
 ---
 

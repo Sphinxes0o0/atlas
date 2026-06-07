@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Altitude and Hypoxia Training: 环境与运动-高海拔低氧训练"
 created: 2026-05-16
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, physiology, altitude-training, hypoxia, vo2max]
 summary: "HiLo, HiHiLo, EPO, AMS/HAPE risks, altitude adaptation mechanisms"
 ---
 

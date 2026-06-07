@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Bioregulators and Recovery Technologies"
 created: 2026-05-12
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, recovery, bioregulators, cryotherapy, photobiomodulation, breathing]
 summary: "WBC, photobiomodulation, IHT, breathing techniques, EMS — benefits and risks"
 ---
 

@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Psychology: Exercise Addiction, Overtraining & Mental Health Risks"
 created: 2026-05-12
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, health, psychology, addiction, overtraining, red-s]
 summary: "运动心理学风险：成瘾、过度训练综合征（OTS）、RED-S、心理依赖"
 ---
 

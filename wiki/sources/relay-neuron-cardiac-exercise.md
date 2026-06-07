@@ -1,8 +1,9 @@
 ---
 type: source
-source-type: relay-neuron
+source-type: github
 title: "relay-neuron / cardiac-exercise-benefits"
 created: 2026-06-04
+path: raw/github/relay-neuron/research/
 tags: [exercise-science, health, cardiovascular]
 summary: "Exercise and cardiac health benefits research synthesis (2024-2026) covering cardiac remodeling, VO2max mortality relationship, coronary circulation adaptations, and clinical applications in cardiac rehabilitation."
 ---

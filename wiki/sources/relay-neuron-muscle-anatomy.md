@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Relay-Neuron Muscle Anatomy — Deltoid, Rotator Cuff, Upper Arm, Chest/Back, Core, Hip, Thigh, Lower Leg"
 created: 2026-05-28
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, biomechanics, muscle-anatomy, emg, training]
 summary: "32 individual B-M-R-I research files covering anatomy, EMG activation, training recommendations, and injury mechanisms for all major muscle groups"
 ---
 

@@ -4,7 +4,7 @@ source-type: github
 title: "Relay Neuron — 补剂深度研究"
 owner: Sphinxes0o0
 repo: relay-neuron
-path: research/supplements/
+path: raw/github/relay-neuron/research/supplements/
 date: 2026-04-12
 size: large
 summary: "补剂综合研究：姜黄素、辅酶Q10、铁、肌酸、褪黑素、螺旋藻、CLA、灵芝等20+补剂的2024-2026文献分析。"

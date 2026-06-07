@@ -8,6 +8,7 @@ date: 2026-04
 size: medium
 path: raw/github/relay-neuron/research/supplements/文献分析/
 summary: "23篇中国肥胖文献系统分析（2021-2026），涵盖心血管、肝脏、中枢神经、代谢内分泌、肾脏五大系统，揭示内脏脂肪通过慢性低度炎症驱动多器官损伤的核心机制。"
+tags: [exercise-science, obesity, visceral-fat, metabolic-syndrome]
 ---
 
 # Relay Neuron — 肥胖文献分析（23篇）

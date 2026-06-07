@@ -8,6 +8,7 @@ date: 2026-04-28
 size: medium
 path: raw/github/relay-neuron/research/2026-04-28-kinesiology-tape/
 summary: "运动肌贴原理、肌肉力量影响、关节稳定性与疼痛缓解、临床应用综合研究 (2024-2026)"
+tags: [exercise-science, kinesiology-tape, rehabilitation, sports-medicine]
 ---
 
 # Relay Neuron — Kinesiology Tape Research (2024-2026)

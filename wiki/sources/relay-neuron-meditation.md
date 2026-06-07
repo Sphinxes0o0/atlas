@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Meditation: Mindfulness Training for Sport Performance"
 created: 2026-05-13
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, health, psychology, meditation, mindfulness]
 summary: "正念冥想训练对运动表现的益处与风险（2024-2026）"
 ---
 

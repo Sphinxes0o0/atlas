@@ -5,6 +5,7 @@ title: "ITRA Runner Profile: Sphinx YOUNG (ID 6729918)"
 created: 2026-06-03
 url: "https://itra.run/RunnerSpace/young.sphinx.6729918"
 summary: "ITRA 官方个人越野跑档案，含 5 场已上传比赛 + 1 场待上传 (Jiuzhaigou 33K)。Performance Index 354 (Intermediate 4)。累计 140.3km / 8,132m 爬升 / 100% 完赛率。"
+tags: [running, trail-running, itra, runner-profile, sphinx]
 ---
 
 # ITRA Runner Profile: Sphinx YOUNG

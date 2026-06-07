@@ -165,5 +165,5 @@ RPE量表（Borg 6-20, CR-10）整合内感受信号：
 - [[entities/exercise-science/health/exercise-mental-health]] — 运动对心理健康的益处（对照）
 - [[entities/exercise-science/health/kinesiophobia]] — 损伤恐惧与回避行为
 - [[entities/exercise-science/physiology/neural-drive-fatigue]] — 中枢疲劳与神经驱动
-- [[entities/exercise-science/nutrition]] — RED-S营养因素
+- [[entities/exercise-science/nutrition/protein]] — RED-S营养因素
 - [[entities/exercise-science/training/periodization]] — 训练周期化预防OTS

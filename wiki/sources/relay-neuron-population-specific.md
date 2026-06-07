@@ -8,6 +8,7 @@ date: 2026-04-12
 size: medium
 path: raw/github/relay-neuron/research/population-specific/
 summary: "青少年、中老年、女性、精英、休闲跑者专项研究 (2020-2026)"
+tags: [exercise-science, population, running, age-specific]
 ---
 
 # Relay Neuron — Population-Specific Running Research (2020-2026)

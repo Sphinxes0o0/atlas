@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Neuroscience: Neural Drive & Fatigue Mechanisms"
 created: 2026-05-12
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, physiology, neuroscience, neural-drive, fatigue]
 summary: "神经驱动与疲劳机制：运动神经科学文献综合（2024-2026）"
 ---
 

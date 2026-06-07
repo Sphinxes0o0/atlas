@@ -8,6 +8,7 @@ date: 2026-04-12
 size: medium
 path: raw/github/relay-neuron/research/training-methods/
 summary: "间歇训练、节奏跑、LSD、阈值训练、坡度训练综合研究 (2020-2026)"
+tags: [exercise-science, training, periodization]
 ---
 
 # Relay Neuron — Training Methods Research (2020-2026)

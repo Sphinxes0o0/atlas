@@ -3,6 +3,8 @@ type: source
 source-type: github
 title: "Psychology: Kinesiophobia, Injury Fear & Return to Sport"
 created: 2026-05-13
+path: raw/github/relay-neuron/research/
+tags: [exercise-science, health, psychology, kinesiophobia, injury-recovery]
 summary: "运动损伤心理： kinesiophobia（运动恐惧）、损伤后心理障碍、回归运动心理准备"
 ---
 
