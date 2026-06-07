@@ -219,8 +219,8 @@ race 5 (Tianmu 5-17):   364  ↓ 98  (回撤, 5月平台期)
 
 ## 相关页面
 
-- [[trail-running]] — 越野跑概览
-- [[running-economy]] — 跑步经济性
-- [[trail-running-injuries]] — 越野跑损伤
-- [[trail-running-psychology]] — 越野跑心理
-- [[ultra-endurance]] — 超长距离耐力
+- [[entities/exercise-science/running/trail-running]] — 越野跑概览
+- [[entities/exercise-science/running/running-economy]] — 跑步经济性
+- [[entities/exercise-science/running/trail-running-injuries]] — 越野跑损伤
+- [[entities/exercise-science/running/trail-running-psychology]] — 越野跑心理
+- [[entities/exercise-science/running/ultra-endurance]] — 超长距离耐力
