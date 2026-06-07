@@ -41,4 +41,5 @@ Regular exercise confers profound cardioprotective effects through multiple phys
 
 ## Source
 
-Ingested from `wiki/raw/2026-05-12-task-4-1-cardiac-exercise-benefits.md` (raw task 4-1)
+- [[sources/relay-neuron-cardiac-exercise]]
+- Ingested from `wiki/raw/2026-05-12-task-4-1-cardiac-exercise-benefits.md` (raw task 4-1)

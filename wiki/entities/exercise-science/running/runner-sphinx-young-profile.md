@@ -212,6 +212,7 @@ race 5 (Tianmu 5-17):   364  ↓ 98  (回撤, 5月平台期)
 
 ## 引用
 
+- [[sources/source-itra-runner-young-sphinx]]
 - ITRA Profile: https://itra.run/RunnerSpace/young.sphinx.6729918
 - Jiuzhaigou 2026 Race: https://itra.run/Races/RaceDetails/JIUZHAIGOU.TRAIL..Sacred.Garden.33KM/2026/113873
 - ITRA Performance Index 表: https://itra.run/Runners/Ranking
