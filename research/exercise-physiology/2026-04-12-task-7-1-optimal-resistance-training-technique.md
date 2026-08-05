@@ -67,7 +67,7 @@
 | 研究 | 来源 |
 |-----|------|
 | IUSCA Position Stand - 肌肥大最佳阻力训练 (2021) | [Int J Sports Sci](https://www.intjss.com/) |
-| JFMK - 优化阻力训练技术 (2023) | [J Funct Mov Health](https://pubmed.ncbi.nlm.nih.gov/) |
+| JFMK - 优化阻力训练技术 (2023) | [J Funct Mov Health](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | MDPI - 健美运动员训练方案综述 (2020) | [MDPI Sports](https://www.mdpi.com/journal/sports) |
 
 ---

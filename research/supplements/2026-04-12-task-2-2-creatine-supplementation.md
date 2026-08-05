@@ -92,8 +92,8 @@
 | 研究 | 来源 |
 |-----|------|
 | University of Idaho - 肌酸+阻力训练+睡眠 (2024) | [Nutrients](https://www.mdpi.com/journal/nutrients) |
-| Kreider et al. - 肌酸补充剂立场声明 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
-|Branch (2013) - 肌酸与肌肉生长Meta分析 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+| Kreider et al. - 肌酸补充剂立场声明 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+|Branch (2013) - 肌酸与肌肉生长Meta分析 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

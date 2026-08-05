@@ -74,7 +74,7 @@
 
 | 研究 | 来源 |
 |-----|------|
-| Current Obesity Reports - 体成分测量方法 (2025) | [Curr Obes Rep](https://pubmed.ncbi.nlm.nih.gov/) |
+| Current Obesity Reports - 体成分测量方法 (2025) | [Curr Obes Rep](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | Scientific Reports - 肌少性肥胖研究 (2024) | [Scientific Reports](https://www.nature.com/srep/) |
 | Nature - 山地车运动员体成分 (2025) | [Nature](https://www.nature.com/) |
 

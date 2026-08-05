@@ -68,9 +68,9 @@
 
 | 研究/理论 | 来源 |
 |---------|------|
-| Protein spread理论 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
-| Protein change理论 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| 剂量效应研究综述 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| Protein spread理论 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Protein change理论 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 剂量效应研究综述 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

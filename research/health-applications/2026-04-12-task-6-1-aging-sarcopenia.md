@@ -75,9 +75,9 @@
 
 | 研究 | 期刊/链接 |
 |-----|---------|
-| β-羟基丁酸酯与肌少症 (2024) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| β-羟基丁酸酯与肌少症 (2024) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | Probio-M8 益生菌研究 (Nature, 2024) | [Nature](https://www.nature.com/) |
-| 肌少症诊断与治疗共识 | [JAMDA](https://pubmed.ncbi.nlm.nih.gov/) |
+| 肌少症诊断与治疗共识 | [JAMDA](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

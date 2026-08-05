@@ -13,9 +13,9 @@
 | 作用机制 | 作为胆碱供体，参与乙酰胆碱和磷脂酰胆碱合成 | 确认 | ([Cavalu et al., 2024](https://doi.org/10.1096/fj.202400823R)) |
 | 认知改善 | 对痴呆、阿尔茨海默病有正向作用 | 中等 | ([Gareri et al., 2024](https://doi.org/10.3233/JAD-240497)) |
 | 卒中恢复 | 在缺血性卒中中显示有效性 | 中等 | ([Shavlovskaya, 2024](https://doi.org/10.17116/jnevro202412409123)) |
-| 神经炎症 | 具有抗炎机制 | 确认 | ([FASEB Journal, 2024](https://pubmed.ncbi.nlm.nih.gov/)) |
-| 安全性 | 安全性良好，副作用罕见 | 高 | ([2009年监测研究](https://pubmed.ncbi.nlm.nih.gov/)) |
-| 最佳剂量 | 500-2000mg/天 | 中等 | ([IDEALE研究](https://pubmed.ncbi.nlm.nih.gov/)) |
+| 神经炎症 | 具有抗炎机制 | 确认 | ([FASEB Journal, 2024](https://pubmed.ncbi.nlm.nih.gov/?term=Journal+2024) |
+| 安全性 | 安全性良好，副作用罕见 | 高 | ([2009年监测研究](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science) |
+| 最佳剂量 | 500-2000mg/天 | 中等 | ([IDEALE研究](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science) |
 
 ---
 

@@ -89,9 +89,9 @@
 | 研究 | 来源 |
 |-----|------|
 | Probio-M8 研究 (Nature, 2024) | [Nature](https://www.nature.com/) |
-| 南昌大学 - β-羟基丁酸酯研究 (2024) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| 南昌大学 - β-羟基丁酸酯研究 (2024) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | Scientific Reports - 肠道微生物与肌少症 (2021) | [Scientific Reports](https://www.nature.com/articles/s41598-021-00000-0) |
-| EWGSOP2 - 肌少症诊断共识 | [Age Ageing](https://pubmed.ncbi.nlm.nih.gov/) |
+| EWGSOP2 - 肌少症诊断共识 | [Age Ageing](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

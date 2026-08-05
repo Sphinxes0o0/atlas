@@ -68,9 +68,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| Grgic et al. - 训练频率Meta分析 (2018) | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| Schoenfeld et al. - 训练频率与肥大 | [Int J Sports Physiol Perform](https://pubmed.ncbi.nlm.nih.gov/) |
-| Ralston et al. - 训练频率系统综述 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| Grgic et al. - 训练频率Meta分析 (2018) | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Schoenfeld et al. - 训练频率与肥大 | [Int J Sports Physiol Perform](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Ralston et al. - 训练频率系统综述 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

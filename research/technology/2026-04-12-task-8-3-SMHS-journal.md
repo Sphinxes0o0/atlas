@@ -77,7 +77,7 @@ Sports Medicine and Health Science (SMHS) 是中国第一本运动医学领域�
 |-----|------|
 | Sports Medicine and Health Science | [Elsevier/SMHS](https://www.sciencedirect.com/journal/sports-medicine-and-health-science) |
 | SMHS 官网 | [成都体育学院](https://www.cdsu.edu.cn/) |
-| 期刊收录信息 | [NCBI PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| 期刊收录信息 | [NCBI PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 
