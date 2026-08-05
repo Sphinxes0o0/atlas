@@ -79,8 +79,8 @@
 | 研究 | 来源 |
 |-----|------|
 | npj Biological Timing and Sleep - 运动与睡眠 (Nature, 2024) | [npj Sleep](https://www.nature.com/npjsleep/) |
-| 睡眠时长与健康结局研究 | [PLoS Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| Krystal et al. - 睡眠与代谢健康 | [Lancet](https://pubmed.ncbi.nlm.nih.gov/) |
+| 睡眠时长与健康结局研究 | [PLoS Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Krystal et al. - 睡眠与代谢健康 | [Lancet](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

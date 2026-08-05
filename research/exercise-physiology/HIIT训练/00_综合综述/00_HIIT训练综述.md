@@ -385,7 +385,7 @@ HIIT是一种时间效率高、多系统获益的训练方法。心血管系统�
 
 ## 参考文献格式说明
 
-本文所有DOI引用均为示意性占位符，实际引用需通过 PubMed (https://pubmed.ncbi.nlm.nih.gov/) 验证并替换为真实DOI。
+本文所有DOI引用均为示意性占位符，实际引用需通过 PubMed (https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science 验证并替换为真实DOI。
 
 **建议检索词**:
 - "HIIT high intensity interval training 2024 2025 2026"

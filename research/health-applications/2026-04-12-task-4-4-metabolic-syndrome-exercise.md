@@ -78,9 +78,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| 代谢综合征运动干预综述 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| 1型糖尿病儿童并发训练 (2023) | [Pediatr Diabetes](https://pubmed.ncbi.nlm.nih.gov/) |
-| 运动与肠道微生物研究 | [Gut Microbes](https://pubmed.ncbi.nlm.nih.gov/) |
+| 代谢综合征运动干预综述 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 1型糖尿病儿童并发训练 (2023) | [Pediatr Diabetes](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 运动与肠道微生物研究 | [Gut Microbes](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

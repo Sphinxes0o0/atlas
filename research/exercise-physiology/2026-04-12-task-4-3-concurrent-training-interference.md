@@ -77,9 +77,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| Sports Medicine - 并发训练协调效应综述 (2016) | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| 并发训练与力量适应 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
-| 乳腺癌幸存者并发训练研究 (2024) | [Support Care Cancer](https://pubmed.ncbi.nlm.nih.gov/) |
+| Sports Medicine - 并发训练协调效应综述 (2016) | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 并发训练与力量适应 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 乳腺癌幸存者并发训练研究 (2024) | [Support Care Cancer](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

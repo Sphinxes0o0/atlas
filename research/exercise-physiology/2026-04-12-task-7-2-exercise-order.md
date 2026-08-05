@@ -67,9 +67,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| 训练顺序对力量表现的影响 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
-| 疲劳与训练顺序 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| 多关节vs单关节动作研究 | [Eur J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+| 训练顺序对力量表现的影响 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 疲劳与训练顺序 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 多关节vs单关节动作研究 | [Eur J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

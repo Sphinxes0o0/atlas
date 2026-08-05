@@ -1,3 +1,5 @@
+<!-- ⚠️ 本文件为 2026-04-12 早期桩文件（<1KB），仅含骨架列表，需要按 B-M-R-I 结构重写并补充真实 PubMed 引用。参考模板: research/2026-05-11-task-7-1-muscle-protein-synthesis-resistance-training.md -->
+
 # 任务 3.4: 营养与补水策略 (超马) (2020-2026)
 
 **研究日期**: 2026-04-12

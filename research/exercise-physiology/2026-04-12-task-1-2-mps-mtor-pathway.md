@@ -95,9 +95,9 @@ mTOR (哺乳动物雷帕霉素靶蛋白) 是 PI3K 相关激酶家族成员，形
 
 | 研究 | 来源 |
 |-----|------|
-| Atherton et al. - Leucine enrichment and MPS | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
-| Morton et al. - 蛋白质剂量与MPS剂量效应 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
-| van Loon - 运动后营养与MPS | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| Atherton et al. - Leucine enrichment and MPS | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Morton et al. - 蛋白质剂量与MPS剂量效应 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| van Loon - 运动后营养与MPS | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | Biol Research - 乳清蛋白+ACr对mTOR影响 (2023) | [Biol Research](https://www.sciencedirect.com/journal/biological-research) |
 
 ## 八、关键文献
