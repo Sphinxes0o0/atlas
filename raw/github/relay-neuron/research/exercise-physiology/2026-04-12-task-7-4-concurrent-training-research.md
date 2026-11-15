@@ -70,8 +70,8 @@
 | 研究 | 来源 |
 |-----|------|
 | Scientific Reports - 并发训练对中年人影响 (2024) | [Scientific Reports](https://www.nature.com/srep/) |
-| 乳腺癌幸存者并发训练研究 (2024) | [Support Care Cancer](https://pubmed.ncbi.nlm.nih.gov/) |
-| 高血压并发训练研究 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+| 乳腺癌幸存者并发训练研究 (2024) | [Support Care Cancer](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 高血压并发训练研究 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

@@ -85,9 +85,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| 恢复策略综述 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| 冷疗与恢复 | [Cochrane Database Syst Rev](https://pubmed.ncbi.nlm.nih.gov/) |
-| 按摩与DOMS | [J Athl Train](https://pubmed.ncbi.nlm.nih.gov/) |
+| 恢复策略综述 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 冷疗与恢复 | [Cochrane Database Syst Rev](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 按摩与DOMS | [J Athl Train](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

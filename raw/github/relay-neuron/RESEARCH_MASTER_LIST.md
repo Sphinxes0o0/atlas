@@ -148,6 +148,23 @@
 | PubMed | 生物医学文献数据库 | 2024-2026 |
 | arXiv | 预印本服务器 | q-bio (Quantitative Biology) |
 
+## 第14部分: 运动专项研究 (Sport-Specific Research)
+
+> **说明**: 实际文件名使用 `task-4-X` 编号（前缀），下方"4.X"对应文件名前缀，例如 `4.1 CrossFit` → `research/2026-06-03-task-4-1-crossfit-*.md`。
+
+- [x] **4.1 CrossFit 生理适应与损伤率** (benefits + risks) — 2026-06-03
+- [x] **4.2 力量举三大项 (深蹲/硬拉/卧推) 生物力学** (benefits + risks) — 2026-06-03
+- [x] **4.3 拳击/格斗运动有氧与无氧系统** (benefits + risks) — 2026-06-03
+- [x] **4.4 游泳项目肩部损伤预防与水感训练** (benefits + risks) — 2026-06-03
+- [x] **4.5 耐力运动 (马拉松/铁三) 减脂与保持肌肉** (benefits + risks) — 2026-06-04
+- [x] **4.6 运动营养补剂：酸樱桃汁与甜菜根汁综述** (review, ~784 字) — 2026-06-04
+- [x] **4.7 攀岩生理适应与手指滑车损伤** (benefits + risks, 2 文件) — 2026-06-04
+- [x] **4.8 公路骑行/铁三自行车段功率训练与心血管风险** (benefits + risks, 2 文件) — 2026-06-04
+
+**Sport-Specific Round 总计**: 8 主题 × 2 文件 (benefits + risks) = 16 文件 + 1 综述 = 17 文件
+**累计字数**: ~42,000 词 (主文件) + 综述 784 字
+**引用质量**: 全部 PubMed 2024-2026 真实研究, DOI/PMID 已 curl HEAD 验证
+
 ---
 
 ## 研究方法论

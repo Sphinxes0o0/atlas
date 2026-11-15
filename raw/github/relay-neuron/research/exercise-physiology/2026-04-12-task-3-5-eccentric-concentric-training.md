@@ -89,9 +89,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| 离心训练与肥大研究 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
-| Douglas et al. - 拉伸配合训练研究 | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
-| 收缩类型与区域肥大 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+| 离心训练与肥大研究 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Douglas et al. - 拉伸配合训练研究 | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 收缩类型与区域肥大 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

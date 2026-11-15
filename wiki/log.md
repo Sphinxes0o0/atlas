@@ -418,3 +418,11 @@ Note: orphan report (`atlas_health.py`) currently lists these 5 + `relay-neuron-
 Orphan list: relay-neuron-cardiac-exercise, relay-neuron-clinical-application, relay-neuron-joint-pain, relay-neuron-latest-review, relay-neuron-mechanism, relay-neuron-muscle-strength, source-itra-runner-young-sphinx. All newly created (6/4-6/7) — inbound links pending.
 
 Stale 56: pre-2026-05-23 pages from initial pyramid-split batch; will refresh as part of cross-link pass.
+
+## [2026-11-15] merge | Relay Neuron 合入 Atlas
+
+- 原始资料统一在 `raw/github/relay-neuron/` 维护；新增 45 个文件，更新 58 个文件，3,097 个文件完全相同。
+- 58 个旧版本均确认存在于 Relay Neuron 的历史中；使用来源仓库后续版本。
+- 保留 Atlas 独有的 5 个原始目录文件，以及全部既有知识库内容。
+- 双父合并提交保留双方 main 分支可达的历史；仓库 README 记录来源版本。
+- 本次为资料与历史合并，未重新审查文献结论，未将更新内容自动覆盖到既有知识库摘要。

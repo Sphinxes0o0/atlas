@@ -80,9 +80,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| 足球运动员功能性+BFR研究 (2024) | [J Sports Sci Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| 功能性训练定义与分类 | [Int J Sports Phys Ther](https://pubmed.ncbi.nlm.nih.gov/) |
-| 功能性vs传统阻力训练比较 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+| 足球运动员功能性+BFR研究 (2024) | [J Sports Sci Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 功能性训练定义与分类 | [Int J Sports Phys Ther](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 功能性vs传统阻力训练比较 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

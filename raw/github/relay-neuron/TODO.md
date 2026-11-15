@@ -8,34 +8,37 @@
 ## 新领域探索 (Emerging Research)
 
 - [x] **1.1 环境与运动-高海拔/低氧训练** (benefits + risks)
-- [ ] **1.2 女性运动生理-月经周期激素波动** (benefits + risks)
-- [ ] **1.3 女性运动生理-更年期骨健康** (benefits + risks)
-- [ ] **1.4 运动损伤心理-损伤恐惧重返赛场** (benefits + risks)
-- [ ] **1.5 冥想训练对比赛专注力** (benefits + risks)
+- [x] **1.2 女性运动生理-月经周期激素波动** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **1.3 女性运动生理-更年期骨健康** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **1.4 运动损伤心理-损伤恐惧重返赛场** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **1.5 冥想训练对比赛专注力** (benefits + risks) — 2026-05-13 + 2026-05-26
 
 ## 补充剂专项 (Supplement Science)
 
-- [ ] **2.1 HMB深入机制与老年人肌少症** (benefits + risks)
-- [ ] **2.2 β-丙氨酸与肌肽在爆发力项目中的效果** (benefits + risks)
-- [ ] **2.3 左旋肉碱与脂肪代谢** (benefits + risks)
-- [ ] **2.4 谷氨酰胺与免疫功能** (benefits + risks)
-- [ ] **2.5 支链氨基酸（BCAA）科学评价** (benefits + risks)
+- [x] **2.1 HMB深入机制与老年人肌少症** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **2.2 β-丙氨酸与肌肽在爆发力项目中的效果** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **2.3 左旋肉碱与脂肪代谢** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **2.4 谷氨酰胺与免疫功能** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **2.5 支链氨基酸（BCAA）科学评价** (benefits + risks) — 2026-05-26
 
 ## 既有领域深挖 (In-Depth Existing Topics)
 
-- [ ] **3.1 mTOR通路深度机制与氨基酸感知** (benefits + risks)
-- [ ] **3.2 周期化训练模型深度对比（DUP/线性/波型）** (benefits + risks)
-- [ ] **3.3 肌肉共振频率与振动训练** (benefits + risks)
-- [ ] **3.4 运动后72小时蛋白质合成窗口** (benefits + risks)
-- [ ] **3.5 神经肌肉电刺激（NMES）最佳参数** (benefits + risks)
+- [x] **3.1 mTOR通路深度机制与氨基酸感知** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **3.2 周期化训练模型深度对比（DUP/线性/波型）** (benefits + risks) — 2026-05-13 + 2026-05-26
+- [x] **3.3 肌肉共振频率与振动训练** (benefits + risks) — 2026-05-26
+- [x] **3.4 运动后72小时蛋白质合成窗口** (benefits + risks) — 2026-05-26
+- [x] **3.5 神经肌肉电刺激（NMES）最佳参数** (benefits + risks) — 2026-05-26
 
 ## 运动专项研究 (Sport-Specific Research)
 
-- [ ] **4.1 CrossFit生理适应与损伤率** (benefits + risks)
-- [ ] **4.2 力量举三大项（深蹲/硬拉/卧推）生物力学** (benefits + risks)
-- [ ] **4.3 拳击/格斗运动有氧与无氧系统** (benefits + risks)
-- [ ] **4.4 游泳项目肩部损伤预防与水感训练** (benefits + risks)
-- [ ] **4.5 耐力运动（马拉松/铁三）减脂与保持肌肉** (benefits + risks)
+- [x] **4.1 CrossFit生理适应与损伤率** (benefits + risks) — 2026-06-03
+- [x] **4.2 力量举三大项（深蹲/硬拉/卧推）生物力学** (benefits + risks) — 2026-06-03
+- [x] **4.3 拳击/格斗运动有氧与无氧系统** (benefits + risks) — 2026-06-03
+- [x] **4.4 游泳项目肩部损伤预防与水感训练** (benefits + risks) — 2026-06-03
+- [x] **4.5 耐力运动（马拉松/铁三）减脂与保持肌肉** (benefits + risks) — 2026-06-04
+- [x] **4.6 运动营养补剂：酸樱桃汁与甜菜根汁综述** (review) — 2026-06-04
+- [x] **4.7 攀岩生理适应与手指滑车损伤** (benefits + risks) — 2026-06-04
+- [x] **4.8 公路骑行/铁三自行车段功率训练与心血管风险** (benefits + risks) — 2026-06-04
 
 ---
 

@@ -96,9 +96,9 @@
 | 来源 | 链接 |
 |-----|------|
 | Schoenfeld BJ. "The Mechanisms of Muscle Hypertrophy" | [mdpi.com/2075-4663](https://www.mdpi.com/2075-4663) |
-| McMaster University (Morton et al.) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| McMaster University (Morton et al.) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | IUSCA Position Stand | [doi.org/10.47206/ijsc](https://doi.org/10.47206/ijsc) |
-| Currier et al. resistance training review | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| Currier et al. resistance training review | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ## 七、结论
 

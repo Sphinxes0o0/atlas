@@ -1,0 +1,14 @@
+# Claude Code skill binary assets (gif/music/pdf > 100KB)
+# These are bundled in skills but should not be tracked in the research archive
+.claude/skills/**/docs/**/*.gif
+.claude/skills/**/docs/**/*.png
+.claude/skills/**/docs/**/*.jpg
+.claude/skills/**/video-promo/**/*.wav
+.claude/skills/**/demos/**/*.pdf
+.claude/skills/**/demos/**/figures/*.png
+.claude/skills/**/references/*.md
+.claude/skills/**/examples/**/output/*.gif
+
+# General
+.DS_Store
+*.tmp
