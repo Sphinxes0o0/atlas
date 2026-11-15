@@ -80,8 +80,8 @@
 | 研究 | 来源 |
 |-----|------|
 | McMaster University - 卫星细胞与肥大适应 | [McMaster Kinesiology](https://www.mcmaster.ca/) |
-| Egner et al. - 卫星细胞耗竭研究 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
-| Satellite cells and muscle hypertrophy review | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+| Egner et al. - 卫星细胞耗竭研究 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Satellite cells and muscle hypertrophy review | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

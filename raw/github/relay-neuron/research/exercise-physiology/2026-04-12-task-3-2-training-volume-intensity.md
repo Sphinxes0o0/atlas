@@ -78,9 +78,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| Sødal et al. - Drops Sets Meta分析 (2023) | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
-| Schoenfeld - 训练量与肥大剂量效应 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
-| 碎片化训练研究 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+| Sødal et al. - Drops Sets Meta分析 (2023) | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Schoenfeld - 训练量与肥大剂量效应 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 碎片化训练研究 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

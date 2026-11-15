@@ -83,8 +83,8 @@ BFR 是一种有效的低负荷训练方法，可在较低强度下实现类似�
 | 研究 | 来源 |
 |-----|------|
 | Scientific Reports - BFR Meta分析 (2024) | [Scientific Reports](https://www.nature.com/srep/) |
-| KAATSU - 血流限制训练历史与机制 | [J Sports Sci Med](https://pubmed.ncbi.nlm.nih.gov/) |
-| Scott et al. - BFR对力量的影响 | [Int J Sports Physiol Perform](https://pubmed.ncbi.nlm.nih.gov/) |
+| KAATSU - 血流限制训练历史与机制 | [J Sports Sci Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Scott et al. - BFR对力量的影响 | [Int J Sports Physiol Perform](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

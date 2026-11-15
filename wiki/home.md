@@ -49,6 +49,10 @@ updated: 2026-05-28
 
 ---
 
+## 原始研究资料
+
+Relay Neuron 已合入 Atlas。原始研究在仓库 `raw/github/relay-neuron/` 中统一维护，入口见[研究资料目录](../raw/github/relay-neuron/research/README.md)和[研究任务清单](../raw/github/relay-neuron/RESEARCH_MASTER_LIST.md)。本次资料更新尚未逐篇同步到既有知识库摘要。
+
 ## Sources
 
 | Source | Description | Date |

@@ -75,7 +75,7 @@
 | 研究 | 来源 |
 |-----|------|
 | Nature - HIIT vs MICT前列腺癌研究 (2024) | [Nature](https://www.nature.com/) |
-| 高强度间歇训练Meta分析 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 高强度间歇训练Meta分析 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | Tabata et al. - HIIT original protocol | [Int J Fitness](https://www.fit-journal.com/) |
 
 ---

@@ -77,8 +77,8 @@
 | 研究 | 来源 |
 |-----|------|
 | Nature Metabolism - 进食调节糖原代谢 (2026) | [Nature Metabolism](https://www.nature.com/natmetab/) |
-| 线粒体蛋白合成研究 (2024) | [J Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
-| 运动时代谢底物利用 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 线粒体蛋白合成研究 (2024) | [J Physiol](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 运动时代谢底物利用 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

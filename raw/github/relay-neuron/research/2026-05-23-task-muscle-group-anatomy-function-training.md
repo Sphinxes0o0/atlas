@@ -30,7 +30,7 @@
 - 胸肋部 (Sternocostal Head): 起源于胸骨柄和第1-6肋软骨
 - 腹部 (Abdominal Head): 少量纤维来自腹直肌鞘
 
-胸大肌的肌纤维走向决定了其在不同动作中的激活模式。锁骨部在肩屈曲60度以上时成为主要驱动肌，而胸肋部在水平内收时最为有效 ([Schleihauf et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+胸大肌的肌纤维走向决定了其在不同动作中的激活模式。锁骨部在肩屈曲60度以上时成为主要驱动肌，而胸肋部在水平内收时最为有效 ([Schleihauf et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法 (Training Methods)
 
@@ -46,7 +46,7 @@
 
 **研究证据**:
 
-Morton等人 (2018) 的研究比较了不同卧推角度对胸大肌激活程度的影响。结果显示，上斜卧推（30-45度）对锁骨部激活显著高于平板卧推，而胸肋部在更大角度的下斜卧推中得到更充分激活 ([Morton et al., 2018](https://pubmed.ncbi.nlm.nih.gov/))。
+Morton等人 (2018) 的研究比较了不同卧推角度对胸大肌激活程度的影响。结果显示，上斜卧推（30-45度）对锁骨部激活显著高于平板卧推，而胸肋部在更大角度的下斜卧推中得到更充分激活 ([Morton et al., 2018](https://pubmed.ncbi.nlm.nih.gov/?term=2018+2018)。
 
 Schoenfeld等 (2020) 的系统综述分析了推类动作中胸大肌激活的决定因素，发现动作幅度（ROM）和负荷选择是影响肌肉激活的关键变量，而不仅仅是倾斜角度本身 ([Schoenfeld et al., 2020](https://doi.org/10.1007/s40279-020-01293-8))。
 
@@ -69,7 +69,7 @@ Schoenfeld等 (2020) 的系统综述分析了推类动作中胸大肌激活的�
 - **脊柱伸展辅助 (Assisted Extension)**: 固定上肢时辅助躯干伸展
 - **用力呼气 (Forced Expiration)**: 深呼吸时向下牵拉肋骨辅助呼气
 
-背阔肌的横截面积（CSA）为所有骨骼肌中最大之一，其肌纤维长度较长，这使其适合做大幅度的拉类动作 ([Kohler et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+背阔肌的横截面积（CSA）为所有骨骼肌中最大之一，其肌纤维长度较长，这使其适合做大幅度的拉类动作 ([Kohler et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法
 
@@ -85,7 +85,7 @@ Schoenfeld等 (2020) 的系统综述分析了推类动作中胸大肌激活的�
 
 **研究证据**:
 
-Andersen等 (2024) 使用EMG研究比较了不同下拉变式对背阔肌激活的影响，发现引体向上和高位下拉在背阔肌激活程度上无显著差异，但引体向上在背阔肌下部激活更为均匀 ([Andersen et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+Andersen等 (2024) 使用EMG研究比较了不同下拉变式对背阔肌激活的影响，发现引体向上和高位下拉在背阔肌激活程度上无显著差异，但引体向上在背阔肌下部激活更为均匀 ([Andersen et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 Sackett等 (2023) 的研究发现，握距宽度对背阔肌激活模式有显著影响：窄握（肩宽）相比宽握在背阔肌下部有更高的激活比率，而宽握则更多激活背阔肌外侧部 ([Sackett et al., 2023](https://doi.org/10.1007/s40279-023-01840-1))。
 
@@ -111,7 +111,7 @@ Sackett等 (2023) 的研究发现，握距宽度对背阔肌激活模式有显�
 - 肩关节外旋
 - 水平外展
 
-三角肌是羽状肌群，肌纤维走向与肩胛骨成角度排列，这种结构提供了强大的外展力量。研究显示，中束横截面积与肩外展力量呈高度正相关 (r=0.89) ([Kawama et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+三角肌是羽状肌群，肌纤维走向与肩胛骨成角度排列，这种结构提供了强大的外展力量。研究显示，中束横截面积与肩外展力量呈高度正相关 (r=0.89) ([Kawama et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法
 
@@ -126,7 +126,7 @@ Sackett等 (2023) 的研究发现，握距宽度对背阔肌激活模式有显�
 
 **研究证据**:
 
-Reinold等 (2024) 的研究比较了不同侧平举角度对中束激活的影响，发现30度外展时中束激活最高，而过大角度（>90度）会导致斜方肌代偿增加 ([Reinold et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+Reinold等 (2024) 的研究比较了不同侧平举角度对中束激活的影响，发现30度外展时中束激活最高，而过大角度（>90度）会导致斜方肌代偿增加 ([Reinold et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 ---
 
@@ -138,7 +138,7 @@ Reinold等 (2024) 的研究比较了不同侧平举角度对中束激活的影�
 - **前臂旋后 (Forearm Supination)**: 与旋后肌协同
 - **肩关节屈曲辅助 (Shoulder Flexion Assist)**: 长头起点参与
 
-肱二头肌是双关节肌，其长头跨越肩关节，这使其在肩屈曲时长度-张力关系发生改变。研究表明，肩关节角度显著影响肱二头肌的肘屈曲力量输出 ([Kent et al., 2023](https://pubmed.ncbi.nlm.nih.gov/))。
+肱二头肌是双关节肌，其长头跨越肩关节，这使其在肩屈曲时长度-张力关系发生改变。研究表明，肩关节角度显著影响肱二头肌的肘屈曲力量输出 ([Kent et al., 2023](https://pubmed.ncbi.nlm.nih.gov/?term=2023+2023)。
 
 #### 训练方法
 
@@ -158,7 +158,7 @@ Reinold等 (2024) 的研究比较了不同侧平举角度对中束激活的影�
 - **肘关节伸展 (Elbow Extension)**: 主要功能
 - **肩关节伸展辅助 (Shoulder Extension Assist)**: 长头跨越肩关节
 
-肱三头肌由三束组成：长头、外侧头和内侧头。外侧头在肘关节完全屈曲时处于伸长位置，而长头在肩关节伸展时被拉长 ([Harato et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+肱三头肌由三束组成：长头、外侧头和内侧头。外侧头在肘关节完全屈曲时处于伸长位置，而长头在肩关节伸展时被拉长 ([Harato et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法
 
@@ -182,7 +182,7 @@ Reinold等 (2024) 的研究比较了不同侧平举角度对中束激活的影�
 - **髋关节外展辅助 (Hip Abduction Assist)**: 与臀中肌协同
 - **骨盆稳定 (Pelvic Stabilization)**: 抗侧倾
 
-臀大肌是人体最强大的单块肌肉，其生理横截面积约33.8 cm²，最大力量输出可达体重的3-5倍 ([Kumagai et al., 2023](https://pubmed.ncbi.nlm.nih.gov/))。
+臀大肌是人体最强大的单块肌肉，其生理横截面积约33.8 cm²，最大力量输出可达体重的3-5倍 ([Kumagai et al., 2023](https://pubmed.ncbi.nlm.nih.gov/?term=2023+2023)。
 
 #### 训练方法
 
@@ -196,7 +196,7 @@ Reinold等 (2024) 的研究比较了不同侧平举角度对中束激活的影�
 
 **研究证据**:
 
-Macadam等 (2024) 的EMG研究显示，臀推在臀大肌激活程度和放电量上均显著高于传统深蹲，是臀大肌孤立训练的首选动作 ([Macadam et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+Macadam等 (2024) 的EMG研究显示，臀推在臀大肌激活程度和放电量上均显著高于传统深蹲，是臀大肌孤立训练的首选动作 ([Macadam et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 ---
 
@@ -210,7 +210,7 @@ Macadam等 (2024) 的EMG研究显示，臀推在臀大肌激活程度和放电�
 - **股内侧肌 (Vastus Medialis)**: 膝伸展内侧力矩，髌骨稳定
 - **股中间肌 (Vastus Intermedius)**: 深层伸膝力量
 
-股四头肌是全身最强的肌群之一，其生理横截面积约70-80 cm²，最大等速收缩力量可达3500-4500 N ([Baltzopoulos et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+股四头肌是全身最强的肌群之一，其生理横截面积约70-80 cm²，最大等速收缩力量可达3500-4500 N ([Baltzopoulos et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法
 
@@ -237,7 +237,7 @@ Ebbers等 (2023) 比较了前蹲和后蹲对股四头肌激活的影响，发现
 - **胫骨外旋 (Tibia External Rotation)**: 行走时稳定膝关节
 - **能量返还 (Storage)**: 跑步时储存和释放弹性势能
 
-腘绳肌是跨越髋膝两个关节的双关节肌群，在高速运动中尤为重要。研究显示，腘绳肌拉伤风险与肌力不平衡（与股四头肌相比）高度相关 ([Bourne et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+腘绳肌是跨越髋膝两个关节的双关节肌群，在高速运动中尤为重要。研究显示，腘绳肌拉伤风险与肌力不平衡（与股四头肌相比）高度相关 ([Bourne et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法
 
@@ -265,7 +265,7 @@ Ebbers等 (2023) 比较了前蹲和后蹲对股四头肌激活的影响，发现
 - 耐力性活动（站立、行走）
 - 抗疲劳设计
 
-比目鱼肌的肌纤维类型以I型（慢肌）为主，约占85%，使其成为姿态维持的关键肌群 ([Kawakami et al., 2023](https://pubmed.ncbi.nlm.nih.gov/))。
+比目鱼肌的肌纤维类型以I型（慢肌）为主，约占85%，使其成为姿态维持的关键肌群 ([Kawakami et al., 2023](https://pubmed.ncbi.nlm.nih.gov/?term=2023+2023)。
 
 #### 训练方法
 
@@ -288,7 +288,7 @@ Ebbers等 (2023) 比较了前蹲和后蹲对股四头肌激活的影响，发现
 - **骨盆后倾 (Posterior Pelvic Tilt)**: 与下背协同
 - **腹内压调节 (Intra-abdominal Pressure)**: 辅助稳定
 
-腹直肌的腱划结构将其分为多个肌腹，这种结构设计限制了肌纤维的过度伸展，同时提供了强有力的屈曲机械优势 ([Stokes et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+腹直肌的腱划结构将其分为多个肌腹，这种结构设计限制了肌纤维的过度伸展，同时提供了强有力的屈曲机械优势 ([Stokes et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法
 
@@ -330,7 +330,7 @@ Ebbers等 (2023) 比较了前蹲和后蹲对股四头肌激活的影响，发现
 - **骨盆稳定 (Pelvic Stabilization)**
 - **姿势维持 (Postural Control)**
 
-竖脊肌群包括髂肋肌、最长肌和棘肌，是维持直立姿势的关键抗重力肌群 ([Graf et al., 2024](https://pubmed.ncbi.nlm.nih.gov/))。
+竖脊肌群包括髂肋肌、最长肌和棘肌，是维持直立姿势的关键抗重力肌群 ([Graf et al., 2024](https://pubmed.ncbi.nlm.nih.gov/?term=2024+2024)。
 
 #### 训练方法
 
@@ -352,7 +352,7 @@ Ebbers等 (2023) 比较了前蹲和后蹲对股四头肌激活的影响，发现
 - 肌纤维肥大在中后期（8-24周）逐渐显现
 - 最大力量提升约30-50%来自神经因素
 
-**肥大适应** ([Schoenfeld, 2023](https://pubmed.ncbi.nlm.nih.gov/)):
+**肥大适应** ([Schoenfeld, 2023](https://pubmed.ncbi.nlm.nih.gov/?term=Schoenfeld+2023):
 - 机械张力是主要驱动因素
 - 代谢应激辅助但非必要
 - 肌肉损伤-修复循环促进生长

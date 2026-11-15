@@ -76,8 +76,8 @@
 | 研究 | 来源 |
 |-----|------|
 | McMaster University - 牛奶vs豆奶研究 | [McMaster Kinesiology](https://www.mcmaster.ca/) |
-| Morton et al. - 乳清vs酪蛋白MPS比较 | [Br J Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
-| Churchward-Venne et al. - 蛋白质类型与MPS | [J Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+| Morton et al. - 乳清vs酪蛋白MPS比较 | [Br J Nutr](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Churchward-Venne et al. - 蛋白质类型与MPS | [J Physiol](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

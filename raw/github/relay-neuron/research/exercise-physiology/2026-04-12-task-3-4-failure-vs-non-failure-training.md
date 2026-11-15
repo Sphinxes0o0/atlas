@@ -73,9 +73,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| 力竭vs非力竭肥大对比综述 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
-| Halpern & Muller (1979) - 力竭训练先驱研究 | [Med Sci Sports](https://pubmed.ncbi.nlm.nih.gov/) |
-| Vendelbo et al. (2014) - 力竭与MPS | [J Clin Endocrinol Metab](https://pubmed.ncbi.nlm.nih.gov/) |
+| 力竭vs非力竭肥大对比综述 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Halpern & Muller (1979) - 力竭训练先驱研究 | [Med Sci Sports](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| Vendelbo et al. (2014) - 力竭与MPS | [J Clin Endocrinol Metab](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

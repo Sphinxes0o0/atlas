@@ -9,7 +9,7 @@
 
 运动科学 (Exercise Science)：运动生理学、训练方法、跑步专项、营养补剂、生物力学、可穿戴技术、人群专项研究。
 
-**核心来源：** relay-neuron 仓库的运动科学文献分析。
+**核心来源：** 本仓库 `raw/github/relay-neuron/` 中的运动科学文献分析（已从 relay-neuron 合并，后续直接在 Atlas 维护）。
 
 ---
 
@@ -81,7 +81,7 @@ created: YYYY-MM-DD
 
 ## Ingest 工作流
 
-1. 用户将新来源放入 relay-neuron 或指定 PDF/网页
+1. 用户将新来源放入本仓库 `raw/github/relay-neuron/research/`，或指定 PDF/网页
 2. LLM 读取来源内容
 3. 在 `wiki/sources/` 创建摘要页
 4. 在 `wiki/entities/exercise-science/<subdomain>/` 创建或更新实体页

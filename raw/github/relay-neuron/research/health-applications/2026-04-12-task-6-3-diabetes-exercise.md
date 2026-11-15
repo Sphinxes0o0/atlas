@@ -73,9 +73,9 @@
 
 | 研究 | 来源 |
 |-----|------|
-| 1型糖尿病儿童并发训练 (2023) | [Pediatr Diabetes](https://pubmed.ncbi.nlm.nih.gov/) |
-| 2型糖尿病运动处方共识 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
-| 高蛋白早餐与血糖管理 | [Br J Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+| 1型糖尿病儿童并发训练 (2023) | [Pediatr Diabetes](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 2型糖尿病运动处方共识 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 高蛋白早餐与血糖管理 | [Br J Nutr](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

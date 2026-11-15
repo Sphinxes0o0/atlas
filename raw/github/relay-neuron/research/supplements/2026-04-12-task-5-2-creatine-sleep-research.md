@@ -63,8 +63,8 @@
 | 研究 | 来源 |
 |-----|------|
 | University of Idaho - 肌酸+阻力训练+睡眠 (2024) | [Nutrients](https://www.mdpi.com/journal/nutrients) |
-| 肌酸与认知功能研究 | [Neurosci Biobehav Rev](https://pubmed.ncbi.nlm.nih.gov/) |
-| 肌酸与脑能量代谢 | [Brain Res Rev](https://pubmed.ncbi.nlm.nih.gov/) |
+| 肌酸与认知功能研究 | [Neurosci Biobehav Rev](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
+| 肌酸与脑能量代谢 | [Brain Res Rev](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 
 ---
 

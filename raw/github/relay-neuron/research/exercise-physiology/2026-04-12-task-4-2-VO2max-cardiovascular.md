@@ -63,7 +63,7 @@
 | 研究 | 来源 |
 |-----|------|
 | ACSM Position Stand - 有氧运动与心血管健康 | [Med Sci Sports Exerc](https://journals.lww.com/acsm-msse/) |
-| VO2max改善Meta分析 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| VO2max改善Meta分析 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/?term=exercise+science |
 | BFR+有氧训练研究 | [Scientific Reports](https://www.nature.com/srep/) |
 
 ---
